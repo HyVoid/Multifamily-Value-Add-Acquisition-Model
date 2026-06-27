@@ -157,12 +157,12 @@ export const EquityReturnsTab: React.FC<EquityReturnsTabProps> = ({
               </td>
               <td className="p-3 text-[#888888]">-</td>
               <td className="p-3 text-[#888888]">-</td>
-              <td className="p-3 text-[#D32F2F] font-bold">
+              <td className="p-3 text-[#051C2C] font-bold">
                 -{formatCurrency(totalProjectCost)}
               </td>
               <td className="p-3 text-[#888888]">-</td>
               <td className="p-3 text-[#888888]">-</td>
-              <td className="p-3 text-[#D32F2F] font-bold">
+              <td className="p-3 text-[#051C2C] font-bold">
                 -{formatCurrency(totalInitialEquity)}
               </td>
               <td className="p-3 font-semibold text-[#888888] bg-[#2251FF]/5">-</td>

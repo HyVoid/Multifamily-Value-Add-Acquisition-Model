@@ -198,7 +198,7 @@ export const DebtSizingTab: React.FC<DebtSizingTabProps> = ({
                   key={i}
                   className={`p-4 rounded-lg border transition-all flex items-center justify-between ${
                     constraint.binding
-                      ? 'bg-red-50/70 border-[#D32F2F] shadow-sm scale-[1.01]'
+                      ? 'bg-[#2251FF]/5 border-[#2251FF] shadow-sm scale-[1.01]'
                       : 'bg-[#F5F5F2]/50 border-[#E8E8E6]'
                   }`}
                 >
@@ -215,7 +215,7 @@ export const DebtSizingTab: React.FC<DebtSizingTabProps> = ({
                       {formatCurrency(constraint.value)}
                     </div>
                     {constraint.binding && (
-                      <span className="inline-flex items-center px-2 py-0.5 rounded-full text-[9px] font-bold bg-[#D32F2F]/10 text-[#D32F2F] uppercase tracking-wider">
+                      <span className="inline-flex items-center px-2 py-0.5 rounded-full text-[9px] font-bold bg-[#2251FF]/10 text-[#2251FF] uppercase tracking-wider">
                         Binding Constraint
                       </span>
                     )}
@@ -226,13 +226,13 @@ export const DebtSizingTab: React.FC<DebtSizingTabProps> = ({
           </div>
 
           {/* Binding insight block */}
-          <div className="p-5 rounded-xl bg-red-50/30 border-l-4 border-[#D32F2F] text-[#051C2C] shadow-sm">
+          <div className="p-5 rounded-xl bg-[rgba(34,81,255,0.04)] border-l-4 border-[#2251FF] text-[#051C2C] shadow-sm">
             <div className="flex items-start space-x-3">
-              <AlertCircle className="w-5 h-5 mt-0.5 text-[#D32F2F] flex-shrink-0" />
+              <Info className="w-5 h-5 mt-0.5 text-[#2251FF] flex-shrink-0" />
               <div>
                 <h4 className="font-sans font-bold text-[14px]">Binding Underwriting Insight</h4>
                 <p className="text-xs text-[#051C2C]/85 mt-1 leading-relaxed">
-                  The maximum qualified loan amount is constrained by the <strong className="font-bold">{getBindingLabel()}</strong>, which establishes a baseline borrowing capacity of <strong className="text-[#D32F2F] font-extrabold">{formatCurrency(finalLoanAmount)}</strong>.
+                  The maximum qualified loan amount is constrained by the <strong className="font-bold">{getBindingLabel()}</strong>, which establishes a baseline borrowing capacity of <strong className="text-[#2251FF] font-extrabold">{formatCurrency(finalLoanAmount)}</strong>.
                   This represents a leverage ratio of <strong>{((finalLoanAmount / purchasePrice) * 100).toFixed(1)}% LTV</strong> relative to the purchase price, and <strong>{((finalLoanAmount / totalProjectCost) * 100).toFixed(1)}% LTC</strong> relative to the total project underwriting cost.
                 </p>
               </div>

@@ -110,14 +110,14 @@ export const ExitValuationTab: React.FC<ExitValuationTabProps> = ({
               <span className="text-base text-[#051C2C] font-extrabold font-mono">{formatCurrency(grossSaleValue)}</span>
             </div>
 
-            <div className="flex justify-between items-center text-xs text-[#D32F2F]">
+            <div className="flex justify-between items-center text-xs text-[#051C2C]">
               <span className="text-[#888888] font-sans font-semibold">Less: Brokerage & Selling Fees ({exitValuation.sellingCostsPct}%)</span>
-              <span className="font-bold font-mono">-{formatCurrency(sellingCostsAmt)}</span>
+              <span className="font-bold font-mono text-[#888888]">-{formatCurrency(sellingCostsAmt)}</span>
             </div>
 
-            <div className="flex justify-between items-center text-xs text-[#D32F2F]">
+            <div className="flex justify-between items-center text-xs text-[#051C2C]">
               <span className="text-[#888888] font-sans font-semibold">Less: Remaining Loan Principal Repayment</span>
-              <span className="font-bold font-mono">-{formatCurrency(outstandingLoanBal)}</span>
+              <span className="font-bold font-mono text-[#888888]">-{formatCurrency(outstandingLoanBal)}</span>
             </div>
 
             <div className="flex justify-between items-center text-xs pt-3 border-t-2 border-[#051C2C]/10">
