@@ -1,0 +1,6 @@
+{
+  "name": "Multifamily Value-Add Acquisition Model",
+  "description": "An interactive multifamily value-add acquisition financial model with unit-level rent rolls, renovation scheduling, debt sizing, 120-month cash flow projections, exit valuation, equity returns, and real-time dashboard analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
