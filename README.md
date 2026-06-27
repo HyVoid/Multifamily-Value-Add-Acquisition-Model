@@ -1,5 +1,3 @@
-# 🌍 English | [简体中文](#) | [繁體中文](#)
-
 # Multifamily Value-Add Acquisition Underwriting & Equity Return Model
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
