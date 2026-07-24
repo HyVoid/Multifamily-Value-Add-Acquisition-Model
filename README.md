@@ -8,9 +8,9 @@
 
 > **No signup. No installation. Free.**
 >
-> 🌐 **Open in Browser** → HTML live demo
+> 🌐 **Open in Browser** → [HTML live demo](https://hyvoid.github.io/Multifamily-Value-Add-Acquisition-Model/)
 >
-> 📥 **Download Excel** → Excel workbook release
+> 📥 **Download Excel** → [Excel workbook release](
 >
 > Available in both **browser** and **Excel** formats for immediate analysis and full model transparency.
 
@@ -18,15 +18,8 @@
 
 ## Screenshots
 
-### Browser Version
+<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/65777689-494a-41df-bf35-f2d67712dc85" />
 
-<!-- screenshot: browser version -->
-
-*Interactive acquisition underwriting interface showing acquisition assumptions, renovation execution pacing, debt constraints, and projected investor returns.*
-
-### Excel Version
-
-<!-- screenshot: excel version -->
 
 *Institutional-style underwriting workbook with unit-level rent rolls, lender underwriting logic, monthly cash flow forecasting, and investment committee outputs.*
 
