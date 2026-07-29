@@ -10,8 +10,12 @@
 >
 > 🌐 **Open in Browser** → [HTML live demo](https://hyvoid.github.io/Multifamily-Value-Add-Acquisition-Model/)
 >
-> 📥 **Download Excel** → [Excel workbook release](
+> 📥 **Download Excel**
 >
+> [google doc view](https://docs.google.com/spreadsheets/d/10TGzK0BQWUig_CrptulTyA5FUx9oKQahAsfuoou9tEA/edit?usp=sharing)
+>
+> [excel template purchase]()
+> 
 > Available in both **browser** and **Excel** formats for immediate analysis and full model transparency.
 
 ---
