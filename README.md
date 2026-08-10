@@ -14,7 +14,7 @@
 >
 > [google doc view](https://docs.google.com/spreadsheets/d/10TGzK0BQWUig_CrptulTyA5FUx9oKQahAsfuoou9tEA/edit?usp=sharing)
 >
-> [excel template purchase]()
+> [excel template purchase](https://alexhasgreatestuff.gumroad.com/l/hmkjuu)
 > 
 > Available in both **browser** and **Excel** formats for immediate analysis and full model transparency.
 
