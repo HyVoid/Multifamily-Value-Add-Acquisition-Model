@@ -20,15 +20,6 @@
 
 ---
 
-## Screenshots
-
-<img width="1920" height="790" alt="image" src="https://github.com/user-attachments/assets/65777689-494a-41df-bf35-f2d67712dc85" />
-
-
-*Institutional-style underwriting workbook with unit-level rent rolls, lender underwriting logic, monthly cash flow forecasting, and investment committee outputs.*
-
----
-
 ## What It Helps You Track
 
 * Acquisition price versus achievable stabilized value creation.
