@@ -14,7 +14,7 @@
 >
 > [google doc view](https://docs.google.com/spreadsheets/d/10TGzK0BQWUig_CrptulTyA5FUx9oKQahAsfuoou9tEA/edit?usp=sharing)
 >
-> [excel template purchase](https://alexhasgreatestuff.gumroad.com/l/hmkjuu)
+> [excel template purchase](https://alexhasgreatestuff.gumroad.com/l/hmkjuu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=multifamily-value-add)
 > 
 > Available in both **browser** and **Excel** formats for immediate analysis and full model transparency.
 
