@@ -6,7 +6,9 @@
 
 **Evaluate whether a multifamily value-add acquisition actually creates equity value — using a free, no-install browser tool or a fully auditable Excel underwriting model.**
 
-> **No signup. No installation. Free.**
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 **Open in Browser** → [HTML live demo](https://hyvoid.github.io/Multifamily-Value-Add-Acquisition-Model/)
 >
