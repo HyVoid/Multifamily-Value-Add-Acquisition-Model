@@ -14,7 +14,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 >
 > 📥 **Download Excel**
 >
-> [excel template purchase](https://alexhasgreatestuff.gumroad.com/l/hmkjuu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=multifamily-value-add)
+> [excel template purchase](https://www.theseusworkshop.com/l/hmkjuu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=multifamily-value-add)
 > 
 > Available in both **browser** and **Excel** formats for immediate analysis and full model transparency.
 
