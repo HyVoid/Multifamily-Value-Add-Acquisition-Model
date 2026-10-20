@@ -1,120 +1,121 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Multifamily Value-Add Acquisition Underwriting & Equity Return Model
+# Multifamily Value-Add Acquisition Underwriting & Equity Return Excel Model
 <img width="1363" height="790" alt="image" src="https://github.com/user-attachments/assets/a2b639c7-9dfa-45b9-b751-363ed19291f3" />
-
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)
 ![Tool](https://img.shields.io/badge/Tool-Decision%20Support-orange.svg)
 
-**Evaluate whether a multifamily value-add acquisition actually creates equity value — using a free, no-install browser tool or a fully auditable Excel underwriting model.**
+**Evaluate commercial real estate (CRE) investments and determine whether a multifamily value-add acquisition truly generates equity value. This dual-format institutional underwriting template operates as both a free, no-install browser-based real estate calculator and a fully auditable Excel pro forma model.**
 
-**No signup. No installation. Free in your browser.**
+**No signup. No installation. Free deal screening in your browser.**
 
-Try the browser version for free. If you need the Excel version, you can buy it with a 30-day, no-questions-asked money-back guarantee.
+Run your initial multifamily investment analysis via the web application. When you are ready to present to an investment committee or syndicate to Limited Partners (LPs), upgrade to the unlocked Excel version with a 30-day, no-questions-asked money-back guarantee.
+
+> 🌐 **Run Initial Deal Screening** → [Free Browser-Based Multifamily Underwriting Calculator](https://hyvoid.github.io/Multifamily-Value-Add-Acquisition-Model/)
 >
-> 🌐 **Open in Browser** → [HTML live demo](https://hyvoid.github.io/Multifamily-Value-Add-Acquisition-Model/)
->
-> 📥 **Download Excel**
->
-> [excel template purchase](https://www.theseusworkshop.com/l/hmkjuu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=multifamily-value-add)
+> 📥 **Download for Full Customization** → [Download Institutional Multifamily Excel Underwriting Model](https://www.theseusworkshop.com/l/hmkjuu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=multifamily-value-add)
 > 
-> Available in both **browser** and **Excel** formats for immediate analysis and full model transparency.
+> Available in both **browser** and **Excel** formats for immediate cash flow analysis and full financial model transparency.
 
 ---
 
-## What It Helps You Track
+## Multifamily Deal Analysis: Pain Points vs. Model Solutions
 
-* Acquisition price versus achievable stabilized value creation.
-* Existing lease underpricing versus realizable market rent upside.
-* Renovation spending pace versus actual NOI growth realization.
-* Debt capacity constraints across lender underwriting standards.
-* Monthly operating cash flow volatility during repositioning periods.
-* Exit valuation sensitivity under changing market assumptions.
+Most real estate investors discover critical errors only after closing. Here is how this underwriting software maps common syndication pitfalls to structured analytical solutions:
 
----
-
-## Why I Built This
-
-Most multifamily acquisition models produce answers before validating whether the underlying assumptions are operationally achievable.
-
-In practice, value-add acquisitions fail less often because of incorrect formulas and more often because of incorrect reasoning.
-
-The most common analytical failures include:
-
-* assuming all units can immediately achieve market rent,
-* sizing debt based solely on LTV while ignoring lender cash flow constraints,
-* treating renovation execution as instantaneous,
-* valuing exits using trailing rather than forward NOI,
-* assuming operational improvements occur without timing friction.  
-
-I built this model after repeatedly observing situations where investment committees approved acquisitions based on internally inconsistent assumptions that were difficult to detect inside conventional underwriting spreadsheets.
-
-Consider a simplified example:
-
-|                        | Traditional Model |                   This Model |
-| ---------------------- | ----------------: | ---------------------------: |
-| Purchase Price         |            $18.0M |                       $18.0M |
-| Projected Levered IRR  |             19.2% |                        12.8% |
-| Rent Growth Assumption |         Immediate |                 Lease-driven |
-| Debt Sizing            |           75% LTV | Four-constraint underwriting |
-| Renovation Period      |           Instant |             24-month rollout |
-| Exit Valuation         |      Trailing NOI |                  Forward NOI |
-
-The investment itself did not change.
-
-Only the quality of the analytical framework changed.
-
-This workbook therefore functions as a productized reasoning system rather than a traditional financial model. Its purpose is not merely to calculate returns, but to expose the assumptions that determine whether those returns are achievable.
+| Investment Pain Point (What Goes Wrong) | Institutional Solution (What This Model Calculates) |
+| :--- | :--- |
+| **Overpaying for Multi-Family Assets** | **Acquisition Price vs. Stabilized Value**: Calculates true spread using forward Capitalization Rates (Cap Rates) and projected Net Operating Income (NOI). |
+| **Unrealistic Rent Roll Projections** | **Loss-to-Lease & Market Rent Upside**: Maps existing lease rollover schedules against achievable market rent per square foot (PSF). |
+| **Running Out of Capex Budget** | **Value-Add Renovation Pacing**: Tracks monthly Capital Expenditures (CapEx) absorption versus actual realized NOI growth during the unit repositioning phase. |
+| **Failing Lender Stress Tests** | **Senior Debt Sizing & Constraints**: Sizes senior debt capacity across LTV, DSCR, and Debt Yield hurdles to match agency (Fannie Mae/Freddie Mac) underwriting standards. |
+| **Negative Cash Flow Surprises** | **Operating Cash Flow Volatility**: Forecasts monthly operating shortfalls and peak equity funding requirements during heavy unit turnaround periods. |
+| **Blind Exit Strategy / Reversion** | **Exit Valuation Sensitivity**: Runs disposition modeling using forward 12-month NOI rather than T12 trailing financials, capturing true stabilized market value. |
 
 ---
 
-## Common Multifamily Acquisition Problems This Solves
+## Why I Built This Commercial Real Estate Underwriting Tool
 
-| Problem                             | Without This Tool                         | With This Tool                                          |
-| ----------------------------------- | ----------------------------------------- | ------------------------------------------------------- |
-| Lease rollover timing ignored       | Rent growth appears immediate             | Rent release follows actual lease expirations           |
-| Debt sized using LTV only           | Equity requirements understated           | Institutional lender constraints modeled simultaneously |
-| Renovation execution oversimplified | Stabilization occurs unrealistically fast | Monthly renovation throughput constraints enforced      |
-| Exit valuation miscalculated        | Exit proceeds overstated                  | Forward NOI capitalization methodology applied          |
-| Capital requirements underestimated | Mid-project equity gaps emerge            | Full acquisition, capex, and financing costs integrated |
-| Returns evaluated using IRR alone   | Risk-adjusted performance obscured        | IRR, MoIC, CoC, and Yield-on-Cost evaluated together    |
+Most commercial real estate pro forma models produce high IRR answers before validating whether the underlying property management assumptions are operationally achievable. 
+
+In practice, value-add apartment acquisitions fail less often because of incorrect Excel formulas, and more often because of incorrect reasoning regarding market cycles and tenant absorption.
+
+The most common analytical failures in real estate private equity include:
+- Assuming 100% of units can immediately achieve market rent premiums, ignoring existing lease terms.
+- Sizing acquisition debt based solely on Loan-to-Value (LTV) while ignoring lender Debt Service Coverage Ratio (DSCR) constraints.
+- Treating interior renovation execution as instantaneous, rather than a phased monthly rollout.
+- Valuing the exit sale price using trailing T12 NOI, which severely penalizes the sponsor's newly stabilized operations.
+- Assuming operational improvements (like lowering expense ratios) occur without timeline friction.
+
+I built this commercial real estate model after repeatedly observing situations where investment committees approved multifamily syndications based on internally inconsistent assumptions that were carefully hidden inside conventional, bloated underwriting spreadsheets.
+
+Consider a simplified multi-family acquisition comparison:
+
+| Core Underwriting Assumption | Standard Broker Pro Forma | Institutional Value-Add Excel Model |
+| :--- | ---: | ---: |
+| **Asset Acquisition Price** | $18,000,000 | $18,000,000 |
+| **Sponsor/LP Levered IRR Projection** | 19.2% | 12.8% |
+| **Rent Premium Achievement** | Immediate 100% Bump | Tied to Actual Lease Expiration Schedule |
+| **Senior Loan Sizing** | 75% LTV Only | LTV, DSCR, & Debt Yield Constrained |
+| **CapEx Unit Turnaround** | Instant Upgrade | 24-Month Phased Renovation Rollout |
+| **Reversion / Exit Cap Rate** | Based on T12 Trailing NOI | Based on Forward 12-Month Stabilized NOI |
+
+The physical real estate asset did not change. Only the quality of the financial analysis framework changed.
+
+This workbook functions as a productized reasoning system for real estate acquisitions. Its primary purpose is not merely to calculate Cash-on-Cash returns and Equity Multiples, but to expose the hidden operational assumptions that determine whether those returns are actually achievable.
 
 ---
 
-## Who This Is For
+## Underwriting Software & Templates for Real Estate Professionals
 
-This tool is designed for:
+This financial model is specifically engineered for deal sponsors and analysts who need reliable, presentation-ready calculations.
 
-* Multifamily acquisition analysts.
-* Independent sponsors.
-* Real estate private equity teams.
-* Apartment syndicators.
-* Small and mid-sized investment firms.
-* Financial modelers underwriting value-add transactions.
+**Who exactly uses this real estate template?**
+- **Real Estate Private Equity (REPE) Analysts** needing a transparent *multifamily acquisition Excel model* to stress-test GP/LP equity returns.
+- **Multifamily Syndicators** looking for reliable *deal analysis software* to build confidence with their Limited Partners (LPs).
+- **Independent Sponsors & General Partners (GPs)** seeking a lightweight *value-add real estate template* for fast initial market screening.
+- **Acquisitions Managers** trying to replace broken, legacy *commercial real estate pro forma spreadsheets*.
+- **Financial Modelers** evaluating *B-class and C-class apartment renovations* requiring precise monthly cash flow tracking.
 
-This tool is not designed for:
+*(Note: This is an investment analysis tool. It is not designed to replace property management operations software (like Yardi or AppFolio), enterprise accounting systems, or construction management platforms.)*
 
-* Property management operations.
-* Enterprise accounting systems.
-* Construction management platforms.
-* Portfolio administration software.
-* ERP replacement projects.
+No advanced financial modeling or Excel VBA expertise is required. 
 
-No spreadsheet expertise is required. Open the browser version and begin underwriting immediately, or use the Excel version for full auditability, customization, and institutional review workflows.
+---
+
+## 🚀 Quick Start Underwriting Tutorial: From Screening to Excel Export
+
+Stop wasting time building amortization schedules from scratch. Follow this specific workflow to evaluate your next multifamily offering package (OM) in minutes:
+
+### Step 1: Input Asset & Financing Assumptions (The Screener)
+Open the [Free Web Calculator](https://hyvoid.github.io/Multifamily-Value-Add-Acquisition-Model/). Input the broker's asking price, current T12 Net Operating Income, and your target financing terms (Interest Rate, Amortization period). The tool instantly flags your maximum loan proceeds.
+
+### Step 2: Model the Value-Add Renovation Schedule (The Operations)
+Enter your per-unit CapEx budget and post-renovation target rent premiums. Set the monthly renovation pace (e.g., 4 units per month). Watch the model automatically calculate the "Loss to Lease" bleed and operating shortfall during construction.
+
+### Step 3: Analyze the Capital Stack & Returns (The Output)
+Review the risk-adjusted performance metrics. The dashboard will simultaneously calculate your Levered IRR (Internal Rate of Return), MoIC (Multiple on Invested Capital), Cash-on-Cash Return, and Yield-on-Cost upon stabilization. 
+
+### Step 4: Download for Committee & Syndication (Call to Action)
+A web tool is great for a 5-minute go/no-go decision. But to close a deal, you need to share your math, adjust waterfall structures, and save scenarios. 
+
+**Ready to underwrite your live deal pipeline?** Skip the monthly SaaS fees and own your data. Download the unlocked, formula-transparent spreadsheet to use on unlimited future acquisitions.
+
+👉 [**Download the Unlocked Multifamily Underwriting Excel Model**](https://www.theseusworkshop.com/l/hmkjuu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=multifamily-value-add)
 
 ---
 
 ## About
 
-I build lightweight analytical tools for situations where there are too many moving parts to reliably manage through intuition alone.
+I build lightweight analytical tools and financial models for situations where there are too many moving parts to reliably manage through intuition alone.
 
-The question underlying every tool is straightforward:
+The question underlying every real estate template I create is straightforward:
 
-> **What information needs to exist in one place to make the next decision confidently?**
+> **What information needs to exist in one place to make the next investment decision confidently?**
 
-This multifamily acquisition model represents one example of that approach: transforming institutional underwriting practices into a reusable decision-support framework that remains transparent, auditable, and operationally practical.
+This multifamily value-add acquisition model represents that exact philosophy: transforming complex institutional CRE underwriting practices into a reusable, desktop-ready decision-support framework that remains transparent, auditable, and operationally practical.
 
 ---
 
