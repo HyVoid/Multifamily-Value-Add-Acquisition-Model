@@ -467,6 +467,28 @@ Initial_Equity
 
 ---
 
+## The Business Logic & Methodology
+
+At its core, this commercial real estate underwriting model shifts the analytical focus from *static assumptions* to *dynamic operational execution*. It solves complex multifamily acquisition problems by applying institutional-grade methodologies to everyday syndication math:
+
+### 1. Dynamic Rent Roll & Lease Rollover (Solving the "Instant Income" Fallacy)
+* **The Business Problem:** Traditional pro formas often assume rents jump to market rates on Day 1. This artificially inflates Year 1 Cash-on-Cash returns and hides early operating shortfalls.
+* **The Methodology:** The model employs a **Phased Lease Rollover schedule**. It maps existing lease expirations and applies the target rent premiums (Loss-to-Lease capture) only as units naturally turn over. This produces a realistic Net Rental Income forecast based on actual tenant movement rather than theoretical averages.
+
+### 2. CapEx Absorption & Unit Downtime (Solving the Equity Gap Risk)
+* **The Business Problem:** General Partners (GPs) and syndicators frequently underestimate the working capital required to carry the property's fixed costs while units sit vacant during the value-add construction phase.
+* **The Methodology:** A **Month-by-Month Renovation Pacing engine**. By defining the maximum units renovated per month and the average unit downtime, the model calculates the exact Capital Expenditures (CapEx) draw schedule and the resulting economic vacancy loss. This accurately sizes the total equity raise required to cover mid-project cash flow valleys.
+
+### 3. Multi-Constraint Debt Sizing (Solving Lender Rejection)
+* **The Business Problem:** Sizing an acquisition loan strictly on Loan-to-Value (LTV) ignores how agency lenders (Fannie Mae / Freddie Mac) or bridge debt funds actually underwrite risk.
+* **The Methodology:** The template utilizes a **Four-Constraint Debt Engine**. It simultaneously calculates maximum allowable loan proceeds across LTV, Minimum DSCR (Debt Service Coverage Ratio), Minimum Debt Yield, and Loan-to-Cost (LTC) hurdles. The model automatically restricts your leverage to the most conservative metric, ensuring your projected capital stack is actually fundable in the real world.
+
+### 4. Forward-Looking Exit Valuation (Solving Reversion Mispricing)
+* **The Business Problem:** Selling a newly repositioned apartment complex based on its Trailing 12 (T12) historical income severely discounts the sweat equity and value created by the sponsor's renovations.
+* **The Methodology:** **Forward NOI Capitalization**. The model calculates the exit terminal value (disposition price) by applying the exit Cap Rate to the *forward* 12 months of stabilized Net Operating Income (NOI). This methodology accurately reflects the true market value of the repositioned asset, ensuring your LP Levered IRR and Equity Multiples are properly credited for the stabilization effort.
+
+---
+
 ## Other Tools in This Series
 
 * **Inventory Planning & Replenishment Engine** — inventory positioning, stockout risk, and working capital optimization.
