@@ -1,6 +1,8 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Multifamily Value-Add Acquisition Underwriting & Equity Return Model
+<img width="1363" height="790" alt="image" src="https://github.com/user-attachments/assets/a2b639c7-9dfa-45b9-b751-363ed19291f3" />
+
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)
