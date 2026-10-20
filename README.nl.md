@@ -1,131 +1,134 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Multifamily Value-Add Acquisition Underwriting & Equity Return Model
+# Multifamily Value-Add Acquisitie Underwriting & Eigenkapitaalrendement Excel-model
+<img width="1363" height="790" alt="image" src="https://github.com/user-attachments/assets/a2b639c7-9dfa-45b9-b751-363ed19291f3" />
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)
 ![Tool](https://img.shields.io/badge/Tool-Decision%20Support-orange.svg)
 
-**Beoordeel of een value-add overname van een multifamily-object daadwerkelijk aandeelhouderswaarde creëert — met een gratis browsertool zonder installatie of een volledig controleerbaar Excel-underwritingmodel.**
+**Beoordeel investeringen in commercieel vastgoed (CRE) en bepaal of een multifamily value-add acquisitie echt eigenkapitaalwaarde creëert. Deze institutionele underwriting-sjabloon in dubbel formaat werkt zowel als gratis, browsergebaseerde vastgoedcalculator zonder installatie als als volledig controleerbaar Excel pro forma model.**
 
-**Geen aanmelding. Geen installatie. Gratis in uw browser.**
+**Geen registratie. Geen installatie. Gratis deal screening in je browser.**
 
-Probeer de browserversie gratis. Hebt u de Excel-versie nodig, dan kunt u die kopen met een garantie van 30 dagen, zonder vragen geld terug.
+Voer je eerste multifamily investeringsanalyse uit via de webapplicatie. Wanneer je klaar bent om aan het investeringscomité te presenteren of te syndiceren naar Limited Partners (LPs), upgrade dan naar de ontgrendelde Excel-versie met een 30-daagse geld-terug-garantie zonder vragen.
+
+> 🌐 **Start de eerste deal screening** → [Gratis browsergebaseerde multifamily underwriting calculator](https://hyvoid.github.io/Multifamily-Value-Add-Acquisition-Model/)
 >
-> 🌐 **Openen in browser** → [HTML live demo](https://hyvoid.github.io/Multifamily-Value-Add-Acquisition-Model/)
->
-> 📥 **Excel downloaden**
->
-> [excel template purchase](https://www.theseusworkshop.com/l/hmkjuu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=multifamily-value-add)
+> 📥 **Downloaden voor volledige aanpasbaarheid** → [Institutioneel multifamily Excel underwriting model downloaden](https://www.theseusworkshop.com/l/hmkjuu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=multifamily-value-add)
 > 
-> Beschikbaar in zowel **browser-** als **Excel**-formaat voor directe analyse en volledige transparantie van het model.
+> Beschikbaar in zowel **browser**- als **Excel**-formaat voor directe cashflowanalyse en volledige transparantie van het financiële model.
 
 ---
 
-## Wat het u helpt bij te houden
+## Multifamily Dealanalyse: Pijnpunten vs. Modeloplossingen
 
-* Aankoopprijs versus haalbare waardecreatie na stabilisatie.
-* Onderprijsstelling van bestaande huurovereenkomsten versus realiseerbaar opwaarts potentieel in markthuur.
-* Tempo van renovatie-uitgaven versus daadwerkelijke realisatie van NOI-groei.
-* Beperkingen van de schuldcapaciteit volgens de underwritingnormen van kredietverstrekkers.
-* Volatiliteit van de maandelijkse operationele cashflow tijdens herpositioneringsperiodes.
-* Sensitiviteit van de exitwaardering onder veranderende marktaannames.
+De meeste vastgoedinvesteerders ontdekken kritieke fouten pas na de deal closing. Zo brengt deze underwriting-software de gebruikelijke syndicatievalkuilen in kaart en koppelt ze aan gestructureerde analytische oplossingen:
 
----
-
-## Waarom ik dit heb gebouwd
-
-De meeste modellen voor multifamily-overnames produceren antwoorden voordat ze valideren of de onderliggende aannames operationeel haalbaar zijn.
-
-In de praktijk mislukken value-add overnames minder vaak door onjuiste formules en vaker door onjuiste redeneringen.
-
-De meest voorkomende analytische fouten zijn:
-
-* aannemen dat alle units onmiddellijk markthuur kunnen realiseren,
-* schuld bepalen op basis van alleen LTV en daarbij de cashflowbeperkingen van de kredietverstrekker negeren,
-* de uitvoering van renovaties als onmiddellijk behandelen,
-* exits waarderen op basis van trailing in plaats van forward NOI,
-* aannemen dat operationele verbeteringen zonder timingfrictie plaatsvinden.  
-
-Ik heb dit model gebouwd na herhaaldelijk situaties te hebben gezien waarin investeringscommissies overnames goedkeurden op basis van intern inconsistente aannames die moeilijk te detecteren waren in conventionele underwriting-spreadsheets.
-
-Beschouw een vereenvoudigd voorbeeld:
-
-|                        | Traditional Model |                   This Model |
-| ---------------------- | ----------------: | ---------------------------: |
-| Purchase Price         |            $18.0M |                       $18.0M |
-| Projected Levered IRR  |             19.2% |                        12.8% |
-| Rent Growth Assumption |         Immediate |                 Lease-driven |
-| Debt Sizing            |           75% LTV | Four-constraint underwriting |
-| Renovation Period      |           Instant |             24-month rollout |
-| Exit Valuation         |      Trailing NOI |                  Forward NOI |
-
-De investering zelf is niet veranderd.
-
-Alleen de kwaliteit van het analytische kader is veranderd.
-
-Deze werkmap functioneert daarom als een geproductiseerd redeneersysteem in plaats van een traditioneel financieel model. Het doel is niet alleen om rendementen te berekenen, maar om de aannames bloot te leggen die bepalen of die rendementen haalbaar zijn.
+| Investeringspijnpunt (Wat er misgaat) | Institutionele oplossing (Wat dit model berekent) |
+| :--- | :--- |
+| **Te veel betalen voor multifamily-assets** | **Aanschafprijs vs. gestabiliseerde waarde**: Berekent de werkelijke spread met vooruitkijkende capitalisatietarieven (Cap Rates) en geprojecteerd netto-exploitatieresultaat (NOI). |
+| **Onrealistische rent roll-projecties** | **Loss-to-Lease & markthuurpotentieel**: Legt de verlooschema's van bestaande huurcontracten naast de haalbare markthuur per vierkante voet (PSF). |
+| **CapEx-budget raakt uitgeput** | **Value-add renovatietemporegeling**: Volgt de maandelijkse absorptie van investeringsuitgaven (CapEx) versus de werkelijk gerealiseerde NOI-groei tijdens de herpositioneringsfase van units. |
+| **Zakken bij stresstests van geldverstrekkers** | **Senior debt-dimensiering & randvoorwaarden**: Bepaalt de senior debt-capaciteit op basis van LTV-, DSCR- en Debt Yield-drempels, passend bij de underwriting-standaarden van agency-lenders (Fannie Mae/Freddie Mac). |
+| **Verrassingen door negatieve cashflow** | **Volatiliteit van operationele cashflow**: Voorspelt maandelijkse operationele tekorten en piekvereisten voor eigenkapitaalfinanciering tijdens intensieve renovatieperioden van units. |
+| **Blinde exitstrategie / reversion** | **Gevoeligheid van exitwaardering**: Voert dispositiemodelering uit met vooruitkijkende 12-maanden-NOI in plaats van T12-historie, en vangt daarmee de werkelijke gestabiliseerde marktwaarde. |
 
 ---
 
-## Veelvoorkomende problemen bij multifamily-overnames die dit oplost
+## Waarom ik deze underwriting-tool voor commercieel vastgoed heb gebouwd
 
-| Problem                             | Without This Tool                         | With This Tool                                          |
-| ----------------------------------- | ----------------------------------------- | ------------------------------------------------------- |
-| Lease rollover timing ignored       | Rent growth appears immediate             | Rent release follows actual lease expirations           |
-| Debt sized using LTV only           | Equity requirements understated           | Institutional lender constraints modeled simultaneously |
-| Renovation execution oversimplified | Stabilization occurs unrealistically fast | Monthly renovation throughput constraints enforced      |
-| Exit valuation miscalculated        | Exit proceeds overstated                  | Forward NOI capitalization methodology applied          |
-| Capital requirements underestimated | Mid-project equity gaps emerge            | Full acquisition, capex, and financing costs integrated |
-| Returns evaluated using IRR alone   | Risk-adjusted performance obscured        | IRR, MoIC, CoC, and Yield-on-Cost evaluated together    |
+De meeste pro forma modellen voor commercieel vastgoed leveren hoge IRR-antwoorden voordat ze valideren of de onderliggende aannames over vastgoedbeheer operationeel haalbaar zijn.
+
+In de praktijk falen value-add appartementacquisities minder vaak door onjuiste Excel-formules en vaker door onjuiste redenering over marktcycli en huurdersabsorptie.
+
+De meest voorkomende analytische fouten in vastgoed private equity zijn:
+- Aannemen dat 100% van de units direct markthuurtoeslagen kan realiseren, zonder rekening te houden met bestaande huurcontracten.
+- De acquisitieschuld dimensioneren uitsluitend op basis van Loan-to-Value (LTV) terwijl de DSCR-eisen (Debt Service Coverage Ratio) van de geldverstrekker worden genegeerd.
+- De uitvoering van interieurrenovatie als direct behandelen in plaats van als maandelijks gefaseerde uitrol.
+- De exitverkoopprijs waarderen op basis van trailing T12-NOI, wat de pas gestabiliseerde bedrijfsvoering van de sponsor zwaar bestraft.
+- Aannemen dat operationele verbeteringen (zoals het verlagen van kostenratio's) zonder tijdsfrictie plaatsvinden.
+
+Ik heb dit vastgoedmodel gebouwd nadat ik herhaaldelijk situaties had gezien waarin investeringscomités multifamily-syndicaties goedkeurden op basis van intern inconsistente aannames die zorgvuldig verborgen zaten in conventionele, opgeblazen underwriting-spreadsheets.
+
+Beschouw een vereenvoudigde multifamily-acquisitievergelijking:
+
+| Kernaanname underwriting | Standaard broker pro forma | Institutioneel value-add Excel-model |
+| :--- | ---: | ---: |
+| **Aanschafprijs van het asset** | $18,000,000 | $18,000,000 |
+| **Geprojecteerd gelede IRR sponsor/LP** | 19.2% | 12.8% |
+| **Realiseren van huurpremie** | Onmiddellijke 100%-verhoging | Gekoppeld aan het werkelijke verlooschema van huurcontracten |
+| **Dimensionering van senior lening** | Alleen 75% LTV | Begrensd door LTV, DSCR & Debt Yield |
+| **CapEx-unitommezetting** | Directe upgrade | 24-maands gefaseerde renovatie-uitrol |
+| **Reversion / exit cap rate** | Gebaseerd op trailing T12-NOI | Gebaseerd op vooruitkijkende gestabiliseerde 12-maanden-NOI |
+
+Het fysieke vastgoedasset veranderde niet. Alleen de kwaliteit van het financiële analysekader veranderde.
+
+Deze werkmap functioneert als een geproduceerd redeneersysteem voor vastgoedacquisities. Het primaire doel is niet slechts Cash-on-Cash-rendementen en equity-multiples berekenen, maar de verborgen operationele aannames blootleggen die bepalen of die rendementen werkelijk haalbaar zijn.
 
 ---
 
-## Voor wie dit bedoeld is
+## Underwriting-software & sjablonen voor vastgoedprofessionals
 
-Deze tool is ontworpen voor:
+Dit financiële model is specifiek ontworpen voor dealsponsors en analisten die betrouwbare, presentatieklare berekeningen nodig hebben.
 
-* Analisten multifamily-overnames.
-* Onafhankelijke sponsors.
-* Teams in private equity voor vastgoed.
-* Syndicators van appartementsgebouwen.
-* Kleine en middelgrote investeringsmaatschappijen.
-* Financiële modelleurs die value-add transacties underwriten.
+**Wie gebruikt deze vastgoedsjabloon precies?**
+- **Real estate private equity-analisten (REPE)** die een transparant *multifamily acquisitie Excel-model* nodig hebben om GP/LP-rendementen te stresstesten.
+- **Multifamily-syndicatoren** die betrouwbare *dealanalyse-software* zoeken om vertrouwen op te bouwen bij hun Limited Partners (LPs).
+- **Onafhankelijke sponsors & General Partners (GPs)** die een lichtgewicht *value-add vastgoedsjabloon* zoeken voor snelle eerste marktscreening.
+- **Acquisitemanagers** die kapotte, verouderde *pro forma spreadsheets voor commercieel vastgoed* willen vervangen.
+- **Financiële modelleurs** die *klasse B- en klasse C-appartementrenovaties* beoordelen en nauwkeurige maandelijkse cashflowtracking nodig hebben.
 
-Deze tool is niet ontworpen voor:
+*(Let op: Dit is een investeringsanalysetool. Het is niet bedoeld om property management-software (zoals Yardi of AppFolio), ondernemingsboekhoudsystemen of bouwmanagementplatforms te vervangen.)*
 
-* Operationeel beheer van onroerend goed.
-* Enterprise boekhoudsystemen.
-* Platforms voor bouwmanagement.
-* Software voor portefeuillebeheer.
-* ERP-vervangingsprojecten.
+Geavanceerde financiële modelleerkennis of Excel VBA-expertise is niet vereist.
 
-Er is geen spreadsheetexpertise nodig. Open de browserversie en begin meteen met underwriten, of gebruik de Excel-versie voor volledige controleerbaarheid, maatwerk en institutionele reviewworkflows.
+---
+
+## 🚀 Korte underwriting-tutorial: Van screening tot Excel-export
+
+Verspil geen tijd meer aan het bouwen van aflossingsschema's vanuit het niets. Volg deze specifieke workflow om je volgende multifamily aanbiedingspakket (OM) in minuten te beoordelen:
+
+### Stap 1: Asset- en financieringsaannames invoeren (De screener)
+Open de [gratis webcalculator](https://hyvoid.github.io/Multifamily-Value-Add-Acquisition-Model/). Voer de vraagprijs van de broker, het huidige T12 netto-exploitatieresultaat en je streefcondities voor financiering in (rentevoet, aflossingsperiode). De tool geeft onmiddellijk je maximale leenbedrag aan.
+
+### Stap 2: Het value-add renovatieschema modelleren (De operaties)
+Voer je CapEx-budget per unit en de streefhuurpremies na renovatie in. Stel het maandelijkse renovatietempo in (bijv. 4 units per maand). Zie hoe het model automatisch het "loss to lease"-verlies en het operationele tekort tijdens de bouw berekent.
+
+### Stap 3: Capital stack & rendementen analyseren (De output)
+Bekijk de risicogecorrigeerde prestatiestatistieken. Het dashboard berekent tegelijk je geleerde IRR (interne rendementsvoet), MoIC (multiple on invested capital), Cash-on-Cash-rendement en Yield-on-Cost na stabilisatie.
+
+### Stap 4: Downloaden voor comité & syndicatie (Call to action)
+Een webtool is ideaal voor een go/no-go-beslissing in 5 minuten. Maar om een deal te sluiten, moet je je berekeningen kunnen delen, waterfall-structuren kunnen aanpassen en scenario's kunnen opslaan.
+
+**Klaar om je lopende dealpijplijn te underwriten?** Sla de maandelijkse SaaS-kosten over en word eigenaar van je data. Download de ontgrendelde spreadsheet met transparante formules voor onbeperkt veel toekomstige acquisities.
+
+👉 [**Het ontgrendelde multifamily underwriting Excel-model downloaden**](https://www.theseusworkshop.com/l/hmkjuu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=multifamily-value-add)
 
 ---
 
 ## Over
 
-Ik bouw lichtgewicht analytische tools voor situaties waarin te veel bewegende delen zijn om betrouwbaar op intuïtie te kunnen vertrouwen.
+Ik bouw lichtgewicht analytische tools en financiële modellen voor situaties waarin te veel bewegende delen zijn om betrouwbaar op intuïtie alleen te managen.
 
-De vraag die aan elke tool ten grondslag ligt, is eenvoudig:
+De vraag die ten grondslag ligt aan elke vastgoedsjabloon die ik maak is eenvoudig:
 
-> **Welke informatie moet op één plek bestaan om de volgende beslissing met vertrouwen te kunnen nemen?**
+> **Welke informatie moet op één plek aanwezig zijn om de volgende investeringsbeslissing met vertrouwen te nemen?**
 
-Dit multifamily-overnamemodel is één voorbeeld van die aanpak: het omzetten van institutionele underwritingpraktijken in een herbruikbaar kader voor beslissingsondersteuning dat transparant, controleerbaar en operationeel praktisch blijft.
+Dit multifamily value-add acquisitiemodel belichaamt precies die filosofie: het omzetten van complexe institutionele CRE-underwritingpraktijken in een herbruikbaar, desktopklaar beslissingsondersteuningskader dat transparant, controleerbaar en operationeel praktisch blijft.
 
 ---
 
 ## Technische details
 
 <details>
-<summary>Voor technische reviewers, Excel-professionals en samenwerkingspartners</summary>
+<summary>Voor technische reviewers, Excel-beoefenaars en medewerkers</summary>
 
 ---
 
 ### Werkmaparchitectuur
 
-De werkmap volgt een strikte architectuur met drie modelleerlagen die aannames, berekeningen en beslissingsoutputs scheiden. 
+De werkmap volgt een strikte driedubbele modelarchitectuur die aannames, berekeningen en beslisuitkomsten scheidt.
 
 ```text
 INPUT LAYER
@@ -149,42 +152,42 @@ OUTPUT LAYER
 └── Sheet 9   Dashboard
 ```
 
-| Sheet          | Function                                      |
-| -------------- | --------------------------------------------- |
-| Control Panel  | Acquisition assumptions and market parameters |
-| Rent Roll      | Unit-level lease and rent baseline            |
-| Operations     | Vacancy, expenses, and operating assumptions  |
-| Renovation     | Value-add execution schedule                  |
-| Debt Engine    | Institutional underwriting constraints        |
-| Cash Flow      | Monthly operating and financing forecasts     |
-| Exit           | Disposition valuation analysis                |
-| Equity Returns | Investor return calculations                  |
-| Dashboard      | Decision support visualization                |
+| Werkblad        | Functie                                        |
+| --------------- | ---------------------------------------------- |
+| Control Panel   | Acquisitieaannames en marktparameters          |
+| Rent Roll       | Huurcontract- en huurbasis per unit            |
+| Operations      | Leegstand, kosten en operationele aannames     |
+| Renovation      | Value-add uitvoeringsschema                    |
+| Debt Engine     | Institutionele underwriting-beperkingen        |
+| Cash Flow       | Maandelijkse operationele en financieringsprognoses |
+| Exit            | Analyse van dispositiewaardering               |
+| Equity Returns  | Rendementberekeningen voor investeerders       |
+| Dashboard       | Visualisatie voor beslissingsondersteuning     |
 
 ---
 
-### Drie valkuilen die zelfs ervaren multifamily-investeerders treffen
+### Drie valkuilen die zelfs ervaren multifamily-investeerders raken
 
-#### Valkuil 1: markthuur is geen haalbare huur
+#### Valkuil 1: Markthuur is niet de haalbare huur
 
-Een value-add overname werd goedgekeurd omdat marktonderzoeken een huurpotentieel van 28% suggereerden.
+Een value-add acquisitie werd goedgekeurd omdat marktonderzoeken een huurpotentieel van 28% suggereerden.
 
-De bestaande huurovereenkomstenstructuur vertraagde de realisatie van dat potentieel echter met bijna twee jaar.
+De bestaande huurcontractstructuur stelde de realisatie van dat potentieel echter bijna twee jaar uit.
 
-| Assumption               | Original Model | Corrected Model |
-| ------------------------ | -------------: | --------------: |
-| Units                    |            120 |             120 |
-| Immediate Mark-to-Market |            Yes |              No |
-| Average Lease Remaining  |        Ignored |       14 months |
-| Levered IRR              |          20.8% |           13.9% |
+| Aanname                               | Origineel model | Gecorrigeerd model |
+| ------------------------------------- | --------------: | -----------------: |
+| Units                                 |             120 |                120 |
+| Directe mark-to-market                |             Ja  |                Nee |
+| Gem. resterende huurcontractduur      |       Genegeerd |         14 maanden |
+| Geleverde IRR                         |           20.8% |              13.9% |
 
-De analytische fout ontstaat doordat markthuur en realiseerbare huur geen gelijkwaardige variabelen zijn.
+De analytische fout ontstaat doordat markthuur en realiseerbare huur geen equivalente variabelen zijn.
 
-De juiste aanpak is om te modelleren:
+De juiste aanpak is het modelleren van:
 
-* schema's voor het aflopen van huurovereenkomsten,
-* timing van het vrijgeven van loss-to-lease,
-* stilstand tijdens renovatie,
+* verlooschema's van huurcontracten,
+* het moment van loss-to-lease-vrijgave,
+* renovatie-downtime,
 * stabilisatie na renovatie.
 
 <details>
@@ -206,26 +209,26 @@ Lease_End_Month
 
 #### Valkuil 2: LTV bepaalt niet de leencapaciteit
 
-Een sponsor ging uit van financieringsmogelijkheid tegen 75% LTV.
+Een sponsor ging uit van beschikbare financiering bij 75% LTV.
 
-De kredietverstrekker keurde de financiering uiteindelijk goed op basis van Debt Yield-beperkingen.
+De geldverstrekker keurde de financiering uiteindelijk goed op basis van Debt Yield-beperkingen.
 
-| Constraint | Maximum Loan |
-| ---------- | -----------: |
-| LTV        |       $15.0M |
-| LTC        |       $14.2M |
-| DSCR       |       $12.7M |
-| Debt Yield |       $11.8M |
+| Beperking  | Maximale lening |
+| ---------- | --------------: |
+| LTV        |         $15.0M  |
+| LTC        |         $14.2M  |
+| DSCR       |         $12.7M  |
+| Debt Yield |         $11.8M  |
 
-Uiteindelijk geleend bedrag:
+Uiteindelijk leenbedrag:
 
 ```text
 $11.8M
 ```
 
-De analytische fout ontstaat doordat kredietverstrekkers meerdere risicobeperkingen tegelijkertijd beoordelen.
+De analytische fout ontstaat doordat geldverstrekkers meerdere risicobeperkingen tegelijk beoordelen.
 
-De juiste aanpak is om het minimaal ondersteunde leenbedrag over alle underwritingmaatstaven toe te passen. 
+De juiste aanpak is het toepassen van het minimaal ondersteunde leenbedrag over alle underwriting-metrics heen.
 
 <details>
 <summary>Formulelogica</summary>
@@ -244,22 +247,22 @@ Debt_Yield_Sized_Loan
 
 ---
 
-#### Valkuil 3: exitwaarden zijn afhankelijk van toekomstige inkomsten
+#### Valkuil 3: Exitwaarden hangen af van toekomstig inkomen
 
-Een underwritingmodel berekende de exitopbrengst op basis van trailing NOI van jaar 5.
+Een underwriting-model berekende de exitopbrengsten met de trailing NOI van jaar 5.
 
-Institutionele kopers prijsden het actief op basis van forward gestabiliseerde inkomsten.
+Institutionele kopers waardeerden het asset met vooruitkijkend gestabiliseerd inkomen.
 
-| Method       | Exit Value |
+| Methode      | Exitwaarde |
 | ------------ | ---------: |
 | Trailing NOI |     $33.1M |
 | Forward NOI  |     $28.4M |
 
-Dit verschil verlaagde de geprojecteerde rendementen op eigen vermogen met meer dan 400 basispunten.
+Dit verschil verlaagde de geprojecteerde eigenkapitaalrendementen met meer dan 400 basispunten.
 
-De analytische fout ontstaat doordat de prijsstelling van een actief de verwachte toekomstige inkomsten weerspiegelt en niet de historische inkomsten.
+De analytische fout ontstaat doordat assetprijsvorming het verwachte toekomstige inkomen weerspiegelt in plaats van het historische inkomen.
 
-De gecorrigeerde methodologie kapitaliseert de forward NOI-prognoses voor de komende twaalf maanden. 
+De gecorrigeerde methodiek kapitaliseert de vooruitkijkende twaalfmaanden-NOI-projecties.
 
 <details>
 <summary>Formulelogica</summary>
@@ -277,36 +280,36 @@ Exit_Cap_Rate
 
 ### Voorbeeldscenario
 
-Beschouw een value-add overname van 96 units.
+Beschouw een value-add acquisitie van 96 units.
 
-#### Overname
+#### Acquisitie
 
-| Input             |       Value |
-| ----------------- | ----------: |
-| Purchase Price    | $18,000,000 |
-| Closing Costs     |        2.0% |
-| Renovation Budget |  $1,920,000 |
-| Hold Period       |     5 years |
-| Exit Cap Rate     |       5.75% |
+| Invoer                 |       Waarde |
+| ---------------------- | -----------: |
+| Aankoopprijs           | $18,000,000  |
+| Transactiekosten       |        2.0%  |
+| Renovatiebudget        | $1,920,000   |
+| Houdperiode            |     5 jaar   |
+| Exit cap rate          |      5.75%   |
 
-#### Operatie
+#### Operaties
 
-| Input                |  Value |
-| -------------------- | -----: |
-| Current Average Rent | $1,250 |
-| Market Rent          | $1,520 |
-| Renovation Premium   |   $225 |
-| Vacancy              |   5.0% |
-| Bad Debt             |   1.5% |
+| Invoer                          |  Waarde |
+| -------------------------------- | ------: |
+| Huidige gemiddelde huur         |  $1,250 |
+| Markthuur                       |  $1,520 |
+| Renovatiepremie                 |    $225 |
+| Leegstand                       |   5.0%  |
+| Wanbetaling (Bad Debt)          |   1.5%  |
 
 #### Financiering
 
-| Constraint | Result |
-| ---------- | -----: |
-| LTV        | $13.5M |
-| LTC        | $14.1M |
-| DSCR       | $12.3M |
-| Debt Yield | $11.9M |
+| Beperking  | Resultaat |
+| ---------- | --------: |
+| LTV        |   $13.5M  |
+| LTC        |   $14.1M  |
+| DSCR       |   $12.3M  |
+| Debt Yield |   $11.9M  |
 
 Uiteindelijk schuldbedrag:
 
@@ -316,31 +319,31 @@ $11.9M
 
 #### Investeringsresultaten
 
-| Metric               | Result |
-| -------------------- | -----: |
-| Year-1 NOI           | $1.18M |
-| Stabilized NOI       | $2.04M |
-| Exit Value           | $35.5M |
-| Levered IRR          |  15.6% |
-| Equity Multiple      |  2.09x |
-| Average Cash-on-Cash |   9.4% |
-| Yield-on-Cost        |   9.3% |
+| Metric                       | Resultaat |
+| ---------------------------- | --------: |
+| NOI jaar 1                   |    $1.18M |
+| Gestabiliseerde NOI          |    $2.04M |
+| Exitwaarde                   |    $35.5M |
+| Geleverde IRR                |    15.6%  |
+| Equity multiple              |    2.09x  |
+| Gemiddeld Cash-on-Cash       |     9.4%  |
+| Yield-on-Cost                |     9.3%  |
 
-#### Interpretatie van de beslissing
+#### Beslissingsinterpretatie
 
-De overname blijft alleen aantrekkelijk als:
+De acquisitie blijft alleen aantrekkelijk als:
 
-* de renovatieduur onder 30 maanden blijft,
-* de exit cap rates onder 6,00% blijven,
-* de huurpremies meer dan $175/unit/maand bedragen,
-* de Debt Yield-vereisten van de kredietverstrekker onder 9,0% blijven.
+* de renovatieduur onder de 30 maanden blijft,
+* exit cap rates onder de 6.00% blijven,
+* huurpremies hoger zijn dan $175 per unit/maand,
+* de debt yield-vereisten van de geldverstrekker onder de 9.0% blijven.
 
 ---
 
-### Formulereferentie
+### Formuliereferentie
 
 <details>
-<summary>Debt Sizing Engine</summary>
+<summary>Debt dimensieringsengine</summary>
 
 ```excel
 LTV_Loan =
@@ -371,7 +374,7 @@ Debt_Yield
 </details>
 
 <details>
-<summary>Renovation Engine</summary>
+<summary>Renovatie-engine</summary>
 
 ```excel
 Cumulative_Renovated_Units =
@@ -386,7 +389,7 @@ Monthly_Capacity
 </details>
 
 <details>
-<summary>Cash Flow Engine</summary>
+<summary>Cashflow-engine</summary>
 
 ```excel
 EGI =
@@ -407,7 +410,7 @@ Operating_Expenses
 </details>
 
 <details>
-<summary>Exit Valuation</summary>
+<summary>Exitwaardering</summary>
 
 ```excel
 Exit_Value =
@@ -426,7 +429,7 @@ Loan_Balance
 </details>
 
 <details>
-<summary>Equity Returns</summary>
+<summary>Eigenkapitaalrendementen</summary>
 
 ```excel
 Levered_IRR =
@@ -447,34 +450,56 @@ Initial_Equity
 
 ### Validatieregels
 
-| Field              | Rule          | Error Behavior     |
-| ------------------ | ------------- | ------------------ |
-| Purchase Price     | > 0           | Hard stop          |
-| Hold Period        | 1–10 years    | Validation error   |
-| Exit Cap Rate      | ≥ Entry Cap   | Warning            |
-| Maximum LTV        | ≤ 75%         | Warning            |
-| Minimum DSCR       | ≥ 1.20x       | Constraint failure |
-| Debt Yield         | ≥ 8.00%       | Constraint failure |
-| Equity Requirement | > 0           | Hard stop          |
-| Monthly DSCR       | ≥ 1.05x       | Covenant warning   |
-| Renovation Units   | ≤ Total Units | Validation error   |
-| NPV Reconciliation | Exact match   | Audit failure      |
+| Veld                      | Regel              | Foutgedrag                |
+| ------------------------- | ------------------ | ------------------------- |
+| Aankoopprijs              | > 0                | Harde stop                |
+| Houdperiode               | 1–10 jaar          | Validatiefout             |
+| Exit cap rate             | ≥ Entry cap        | Waarschuwing              |
+| Maximale LTV              | ≤ 75%              | Waarschuwing              |
+| Minimale DSCR             | ≥ 1.20x            | Randvoorwaarde geschonden |
+| Debt Yield                | ≥ 8.00%            | Randvoorwaarde geschonden |
+| Eigenkapitaalvereiste     | > 0                | Harde stop                |
+| Maandelijkse DSCR         | ≥ 1.05x            | Covenant-waarschuwing     |
+| Renovatie-units           | ≤ Totaal aantal units | Validatiefout          |
+| NPV-afstemming            | Exacte match       | Auditfout                 |
 
 </details>
 
 ---
 
+## De bedrijfslogica & methodiek
+
+In essentie verplaatst dit underwriting-model voor commercieel vastgoed de analytische focus van *statische aannames* naar *dynamische operationele uitvoering*. Het lost complexe multifamily-acquisitieproblemen op door institutionele methodologieën toe te passen op alledaagse syndicatieberekeningen:
+
+### 1. Dynamische rent roll & huurcontractverloop (Oplossing voor de „instant inkomen"-misvatting)
+* **Het bedrijfsprobleem:** Traditionele pro forma's nemen vaak aan dat huren op dag 1 naar marktniveau springen. Dit blaast de Cash-on-Cash-rendementen van jaar 1 kunstmatig op en verbergt vroege operationele tekorten.
+* **De methodiek:** Het model gebruikt een **gefasceerd huurverlooschema**. Het legt de verloopdata van bestaande huurcontracten vast en past de streefhuurpremies (loss-to-lease-captatie) alleen toe naarmate units op natuurlijke wijze vrijkomen. Dit levert een realistische prognose van het netto huurinkomen op basis van echte huurdersbewegingen in plaats van theoretische gemiddelden.
+
+### 2. CapEx-absorptie & unit-downtime (Oplossing voor het eigenkapitaalklokrisico)
+* **Het bedrijfsprobleem:** General Partners (GPs) en syndicatoren onderschatten vaak het werkkapitaal dat nodig is om de vaste kosten van het vastgoed te dragen terwijl units leeg staan tijdens de value-add bouwfase.
+* **De methodiek:** Een **maand-voor-maand renovatietempomotor**. Door het maximale aantal per maand te renoveren units en de gemiddelde downtime per unit te definiëren, berekent het model het exacte CapEx-opnameschema en het daaruit voortvloeiende economische leegstandsverlies. Dit bepaalt nauwkeurig de totale eigenkapitaalwerving die nodig is om cashflowdalen halverwege het project op te vangen.
+
+### 3. Multi-beperking debt sizing (Oplossing voor kredietafwijzing)
+* **Het bedrijfsprobleem:** Een acquisitielening strikt dimensioneren op Loan-to-Value (LTV) negeert hoe agency-lenders (Fannie Mae / Freddie Mac) of bridge debt-fondsen risico werkelijk beoordelen.
+* **De methodiek:** De sjabloon gebruikt een **debt-engine met vier beperkingen**. Deze berekent tegelijk het maximaal toelaatbare leenbedrag volgens LTV, minimale DSCR (Debt Service Coverage Ratio), minimale Debt Yield en Loan-to-Cost (LTC)-drempels. Het model beperkt je leverage automatisch tot de meest conservatieve metric, zodat je geprojecteerde capital stack in de echte wereld daadwerkelijk financierbaar is.
+
+### 4. Vooruitkijkende exitwaardering (Oplossing voor verkeerde prijsvorming bij reversion)
+* **Het bedrijfsprobleem:** Een pas herpositioneerd appartementencomplex verkopen op basis van zijn trailing T12-inkomen waardeert het sweat equity en de door de renovaties van de sponsor gecreëerde waarde zwaar af.
+* **De methodiek:** **Forward NOI-kapitalisatie**. Het model berekent de exit-eindwaarde (dispositieprijs) door de exit cap rate toe te passen op de *vooruitkijkende* 12 maanden gestabiliseerd netto-exploitatieresultaat (NOI). Deze methodiek weerspiegelt de werkelijke marktwaarde van het herpositioneerde asset nauwkeurig, zodat je LP geleverde IRR en equity-multiples correct worden gecrediteerd voor de stabilisatie-inspanning.
+
+---
+
 ## Andere tools in deze serie
 
-* **Inventory Planning & Replenishment Engine** — voorraadpositionering, risico op voorraadtekorten en optimalisatie van werkkapitaal.
-* **Logistics Operations Control Tower** — zichtbaarheid op zendingen over meerdere entiteiten en beheer van douaneprocessen.
-* **Business Budget Variance Analyzer** — operationele budgettering en analyse van winstgevendheid.
-* **Service Operations Performance Console** — productiviteit van medewerkers en beheer van servicewinstgevendheid.
+* **Inventory Planning & Replenishment Engine** — voorraadpositionering, voorraaduitvalrisico en optimalisatie van werkkapitaal.
+* **Logistics Operations Control Tower** — verzendzichtbaarheid over entiteiten heen en douanewerkstroombeheer.
+* **Business Budget Variance Analyzer** — operationele budgettering en winstgevendheidsanalyse.
+* **Service Operations Performance Console** — personeelsproductiviteit en beheer van service-winstgevendheid.
 
 ---
 
 ## Licentie
 
-Dit project is gelicentieerd onder de **Apache License 2.0**.
+Dit project valt onder de **Apache-licentie 2.0**.
 
-U bent vrij om dit project te gebruiken, te wijzigen, te distribueren en aan te passen onder de voorwaarden van de Apache License 2.0. 
+Je mag dit project vrij gebruiken, aanpassen, distribueren en bewerken onder de voorwaarden van de Apache-licentie 2.0.
