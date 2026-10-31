@@ -57,7 +57,8 @@ export default function App() {
     const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(state, null, 2));
     const downloadAnchor = document.createElement('a');
     downloadAnchor.setAttribute("href", dataStr);
-    downloadAnchor.setAttribute("download", `${state.controlPanel.projectName.toLowerCase().replace(/\s+/g, '_')}_backup.json`);
+    const today = new Date().toISOString().split('T')[0];
+    downloadAnchor.setAttribute("download", `multifamily-value-add-acquisition-model-backup-${today}.json`);
     document.body.appendChild(downloadAnchor);
     downloadAnchor.click();
     downloadAnchor.remove();
@@ -244,8 +245,8 @@ export default function App() {
       </main>
 
       {/* Institutional Footer */}
-      <footer className="py-6 border-t border-[#E8E8E6] text-center text-[11px] text-[#888888] font-medium tracking-wide uppercase bg-white">
-        &copy; {new Date().getFullYear()} Oakwood Real Estate Partners &bull; Multifamily Value-Add Underwriting System
+      <footer className="py-6 border-t border-[#E8E8E6] text-center text-[12px] text-[#888888] font-sans tracking-wide bg-white px-4">
+        All data in this tool is stored in your browser's localStorage. The page itself does not retain any user data.
       </footer>
     </div>
   );

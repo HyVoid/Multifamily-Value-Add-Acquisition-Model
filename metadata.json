@@ -1,6 +1,6 @@
 {
   "name": "Multifamily Value-Add Acquisition Model",
-  "description": "An interactive multifamily value-add acquisition financial model with unit-level rent rolls, renovation scheduling, debt sizing, 120-month cash flow projections, exit valuation, equity returns, and real-time dashboard analytics.",
+  "description": "Theseus Workshop - Multifamily Value-Add Acquisition Model: Institutional-grade real estate underwriting platform with dynamic unit-level rent rolls, renovation scheduling, debt sizing, 120-month cash flows, and equity returns.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

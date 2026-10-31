@@ -42,18 +42,40 @@ export const Navbar: React.FC<NavbarProps> = ({
   return (
     <nav className="sticky top-0 z-50 w-full h-[56px] bg-white border-b border-[#E8E8E6] shadow-[0_1px_3px_rgba(5,28,44,0.06)] px-6 flex items-center justify-between">
       {/* Brand Section */}
-      <div className="flex items-center space-x-3">
-        <div className="flex items-center justify-center w-8 h-8 bg-[#051C2C] rounded-md text-white font-heading font-bold text-lg">
-          M
+      <div className="flex items-center space-x-3 shrink-0">
+        <div className="flex items-center justify-center w-8 h-8 bg-[#051C2C] rounded-md text-white font-heading font-bold text-sm tracking-wide shadow-xs select-none">
+          TW
         </div>
-        <div>
-          <span className="font-heading font-bold text-[#051C2C] text-sm md:text-base leading-none tracking-tight block">
-            Multifamily SaaS
-          </span>
-          <span className="text-[10px] text-[#888888] font-medium tracking-wider uppercase">
-            Value-Add Model
+        <div className="flex flex-col justify-center">
+          <div className="flex items-center space-x-2">
+            <span className="font-heading font-bold text-[#051C2C] text-[16px] md:text-[18px] leading-tight tracking-[-0.02em] whitespace-nowrap">
+              Theseus Workshop
+            </span>
+            <span className="hidden xl:inline text-[#888888]/40 text-xs select-none">/</span>
+            <span className="hidden xl:inline text-[11px] text-[#888888] font-sans font-medium tracking-tight whitespace-nowrap">
+              Multifamily Value-Add Acquisition Model
+            </span>
+          </div>
+          <span className="xl:hidden text-[10px] text-[#888888] font-sans font-medium tracking-tight leading-none mt-0.5 whitespace-nowrap">
+            Multifamily Value-Add Acquisition Model
           </span>
         </div>
+      </div>
+
+      {/* Mobile / Tablet Tab Selector */}
+      <div className="lg:hidden mx-2">
+        <select
+          value={currentTab}
+          aria-label="Select Model View"
+          onChange={(e) => setCurrentTab(e.target.value)}
+          className="text-[11px] font-sans font-semibold uppercase tracking-wider py-1.5 px-2 bg-[#F5F5F2] border border-[#E8E8E6] rounded text-[#051C2C] cursor-pointer"
+        >
+          {tabs.map((tab) => (
+            <option key={tab.id} value={tab.id}>
+              {tab.label}
+            </option>
+          ))}
+        </select>
       </div>
 
       {/* Tabs Section */}

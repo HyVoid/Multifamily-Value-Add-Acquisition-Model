@@ -1,10 +1,8 @@
 @import "tailwindcss";
 
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inter:wght@300;400;500;600;700&display=swap');
-
 @theme {
   --font-heading: "EB Garamond", Georgia, serif;
-  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   
   --color-primary: #051C2C;
   --color-accent: #2251FF;
@@ -19,17 +17,27 @@
 }
 
 :root {
-  --color-primary: #051C2C;
-  --color-accent: #2251FF;
-  --color-bg: #F5F5F2;
-  --color-muted: #888888;
+  --bg: #F5F5F2;
+  --surface: #FFFFFF;
+  --brand: #051C2C;
+  --accent: #2251FF;
+  --muted: #888888;
+  --ok: #00C853;
+  --danger: #D32F2F;
+  --input-bg: #FFFDE7;
+
+  /* Aliases for backwards compatibility */
+  --color-primary: var(--brand);
+  --color-accent: var(--accent);
+  --color-bg: var(--bg);
+  --color-muted: var(--muted);
   --color-body-text: #1A1A2E;
-  --color-positive: #00C853;
-  --color-negative: #D32F2F;
-  --color-surface: #FFFFFF;
-  --color-input-bg: #FFFDE7;
+  --color-positive: var(--ok);
+  --color-negative: var(--danger);
+  --color-surface: var(--surface);
+  --color-input-bg: var(--input-bg);
   --color-border: #E8E8E6;
-  --card-shadow: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -4px rgba(0,0,0,0.1);
+  --card-shadow: 0 10px 15px -3px rgba(0,0,0,0.06), 0 4px 6px -4px rgba(0,0,0,0.04);
 }
 
 body {
