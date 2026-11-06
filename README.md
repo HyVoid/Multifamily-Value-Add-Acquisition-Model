@@ -1,7 +1,7 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Multifamily Underwriting Excel Template & Free Apartment Acquisition Calculator (Value-Add Real Estate Pro Forma Spreadsheet)
-<img width="1363" height="790" alt="image" src="https://github.com/user-attachments/assets/a2b639c7-9dfa-45b9-b751-363ed19291f3" />
+<img width="1060" height="790" alt="image" src="https://github.com/user-attachments/assets/4e7e3ff9-ad58-497b-b373-1e02dc6b40d2" />
 
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
