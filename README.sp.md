@@ -1,121 +1,155 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
-# Modelo Excel de Underwriting para Adquisiciones Multifamily Value-Add y Retornos de Equity
-<img width="1363" height="790" alt="image" src="https://github.com/user-attachments/assets/a2b639c7-9dfa-45b9-b751-363ed19291f3" />
+# Plantilla Excel de Underwriting Multifamily y Calculadora Gratuita de Adquisición de Apartamentos (Hoja de Cálculo Pro Forma Inmobiliaria Value-Add)
+<img width="1060" height="790" alt="image" src="https://github.com/user-attachments/assets/4e7e3ff9-ad58-497b-b373-1e02dc6b40d2" />
+
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-green.svg)
-![Tool](https://img.shields.io/badge/Tool-Decision%20Support-orange.svg)
+![Platform](https://img.shields.io/badge/Platform-Web%20Calculator%20%2B%20Excel%20Template-green.svg)
+![Skill Level](https://img.shields.io/badge/Skill%20Level-Beginner%20to%20Institutional-orange.svg)
+![Automation](https://img.shields.io/badge/Formulas-100%25%20Automated%20Copy--Paste-brightgreen.svg)
 
-**Evalúe inversiones inmobiliarias comerciales (CRE) y determine si una adquisición multifamily value-add realmente genera valor de equity. Esta plantilla institucional de underwriting en formato dual funciona tanto como calculadora inmobiliaria gratuita en el navegador, sin instalación, como modelo pro forma de Excel totalmente auditable.**
+<p><strong>Esta plantilla Excel de underwriting multifamily plug-and-play y esta calculadora gratuita en línea de inversión en apartamentos son una hoja de cálculo pro forma automatizada de bienes raíces comerciales (CRE), diseñada para el screening rápido de operaciones, el modelado de reformas value-add y el análisis de rentabilidad del capital GP/LP. Creada tanto para inversores primerizos en apartamentos como para sindicadores experimentados, este software de underwriting inmobiliario en formato dual calcula el Ingreso Neto Operativo (NOI), las Tasas de Capitalización (Cap Rates), el retorno Cash-on-Cash, la Tasa Interna de Retorno (IRR), el Múltiplo de Equity (MoIC) y el dimensionamiento de deuda DSCR—sin necesidad de escribir una sola fórmula de Excel ni tener experiencia en modelado financiero.</strong></p>
 
-**Sin registro. Sin instalación. Screening gratuito de operaciones en su navegador.**
+**Sin registro. Sin instalación. Cero configuración compleja. Screening multifamily instantáneo en su navegador, más una hoja de cálculo Excel de copiar y pegar en 1 clic para personalización local.**
 
-Realice su análisis inicial de inversión multifamily en la aplicación web. Cuando esté listo para presentarlo al comité de inversiones o para sindicar a Limited Partners (LPs), actualice a la versión Excel desbloqueada con una garantía de devolución de 30 días sin preguntas.
+Analice Offering Memorandums (OMs), realice pruebas de estrés a estados financieros T12 y evalúe el potencial del rent roll de inmediato mediante la calculadora web interactiva. Cuando esté listo para ejecutar escenarios locales ilimitados, guardar su pipeline de operaciones o presentar cifras auditables a prestamistas y Limited Partners (LPs), descargue el libro de trabajo pro forma Excel desbloqueado, respaldado por una **garantía de devolución de 30 días sin preguntas**.
 
-> 🌐 **Ejecute el screening inicial de la operación** → [Calculadora Multifamily de Underwriting Gratuita en el Navegador](https://hyvoid.github.io/Multifamily-Value-Add-Acquisition-Model/)
+> 🌐 **Paso 1: Screening web gratuito instantáneo** → [Lance la calculadora gratuita interactiva de screening de operaciones multifamily en el navegador (sin registro ni instalación)](https://hyvoid.github.io/Multifamily-Value-Add-Acquisition-Model/)
 >
-> 📥 **Descarga para personalización total** → [Descargar el Modelo Excel de Underwriting Multifamily Institucional](https://www.theseusworkshop.com/l/hmkjuu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=multifamily-value-add)
+> 📥 **Paso 2: Modelo Excel completamente automatizado** → [Descargue la plantilla Excel de underwriting multifamily desbloqueada (.XLSX) con fórmulas de actualización automática para un análisis local ilimitado de operaciones](https://www.theseusworkshop.com/l/hmkjuu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=multifamily-value-add)
 > 
-> Disponible en formatos **navegador** y **Excel** para un análisis inmediato del flujo de caja y una transparencia total del modelo financiero.
+> *Disponible en formatos de **calculadora instantánea en el navegador** y **hoja de cálculo Microsoft Excel automatizada** para un análisis de flujo de caja en 1 minuto y una transparencia financiera completa.*
 
 ---
 
-## Análisis de Operaciones Multifamily: Puntos de Dolor vs. Soluciones del Modelo
+## 📊 Qué Le Ayuda a Seguir: Puntos de Dolor de la Inversión Multifamily vs. Soluciones Automatizadas de la Hoja de Cálculo
 
-La mayoría de los inversores inmobiliarios descubren los errores críticos solo después del closing. Así es como este software de underwriting mapea los fallos habituales de las sindicaciones hacia soluciones analíticas estructuradas:
+La mayoría de los inversores inmobiliarios principiantes e intermedios pierden dinero o desperdician horas en malas operaciones porque siguen las métricas manualmente o confían en folletos inflados de brókers. Así es como esta **hoja de cálculo de adquisición de apartamentos** mapea los puntos de dolor comunes de la inversión inmobiliaria con soluciones de seguimiento automatizadas:
 
-| Punto de Dolor de Inversión (Qué Sale Mal) | Solución Institucional (Qué Calcula Este Modelo) |
+| Punto de Dolor del Inversor (Errores de Alto Riesgo en Operaciones) | Solución Automatizada de la Hoja de Cálculo (Lo Que Esta Plantilla Sigue y Calcula) |
 | :--- | :--- |
-| **Pagar de más por activos multifamily** | **Precio de Adquisición vs. Valor Estabilizado**: Calcula el spread real utilizando tasas de capitalización (Cap Rates) prospectivas y el ingreso neto operativo (NOI) proyectado. |
-| **Proyecciones de Rent Roll irreales** | **Loss-to-Lease y potencial de renta de mercado**: Mapea los calendarios de vencimiento de los arrendamientos existentes frente a la renta de mercado alcanzable por pie cuadrado (PSF). |
-| **Agotar el presupuesto CapEx** | **Ritmo de renovación value-add**: Registra la absorción mensual de los gastos de capital (CapEx) frente al crecimiento del NOI realmente logrado durante la fase de reposicionamiento de unidades. |
-| **Suspender las pruebas de estrés del prestamista** | **Dimensionamiento y restricciones de la deuda senior**: Dimensiona la capacidad de deuda senior según los umbrales de LTV, DSCR y Debt Yield para ajustarse a los estándares de underwriting de las agencias (Fannie Mae/Freddie Mac). |
-| **Sorpresas de flujo de caja negativo** | **Volatilidad del flujo de caja operativo**: Pronostica los déficits operativos mensuales y los requerimientos pico de financiamiento de equity durante los periodos de mayor rotación de unidades. |
-| **Estrategia de salida / reversion a ciegas** | **Sensibilidad de la valoración de salida**: Modela la disposición utilizando el NOI prospectivo de 12 meses en lugar de las cifras históricas T12, capturando el verdadero valor de mercado estabilizado. |
+| **Pagar de más por edificios de apartamentos** | **Comparador de Precio de Compra vs. Valor Estabilizado**: Calcula automáticamente su spread real de adquisición usando Cap Rates de entrada, Ingreso Neto Operativo (NOI) estabilizado prospectivo y Yield-on-Cost. |
+| **Caer en proyecciones de rentas falsas del bróker** | **Analizador de Rent Roll y Loss-to-Lease**: Sigue los calendarios de vencimiento de los arrendamientos de inquilinos existentes frente a la renta de mercado realista por pie cuadrado (PSF), evitando supuestos de ingresos prematuros. |
+| **Quedarse sin efectivo de renovación a mitad del proyecto** | **Ritmo de CapEx Value-Add y Calendario de Desembolsos**: Mapea los gastos de capital (CapEx) mensuales por unidad frente al crecimiento del NOI en tiempo real durante las rotaciones interiores y exteriores de apartamentos. |
+| **Ser rechazado por prestamistas comerciales** | **Calculadora Automatizada de Dimensionamiento de Deuda Senior**: Realiza pruebas de estrés simultáneas al monto máximo del préstamo según restricciones de Loan-to-Value (LTV), Debt Service Coverage Ratio (DSCR) y Debt Yield (estándares Fannie Mae / Freddie Mac). |
+| **Flujo de caja mensual negativo inesperado** | **Seguimiento de Déficit Operativo y Capital de Trabajo**: Pronostica caídas mensuales del flujo de caja, pérdida por vacancia y requerimientos pico de financiamiento de capital durante las fases intensivas de reposicionamiento de unidades. |
+| **Mal evaluar el valor de salida y de refinanciamiento** | **Matriz de Sensibilidad de Disposición y Cap Rate de Salida**: Modela los valores de reversion usando el NOI estabilizado prospectivo de 12 meses en lugar de los estados financieros T12 históricos, revelando su verdadero IRR Apalancado y Múltiplo de Equity. |
 
 ---
 
-## Por Qué Construí Esta Herramienta de Underwriting Inmobiliario Comercial
+## 🧠 La Lógica de Negocio y la Metodología: Exponer Puntos Ciegos Ocultos en Operaciones Inmobiliarias
 
-La mayoría de los modelos pro forma inmobiliarios comerciales producen respuestas de IRR elevadas antes de validar si los supuestos subyacentes de gestión de la propiedad son operativamente alcanzables.
+Si es nuevo en el underwriting de bienes raíces comerciales, construir un modelo de flujo de caja plurianual desde cero resulta abrumador. Peor aún, confiar en cálculos «de servilleta» o en pro formas estándar de brókers lo expone a puntos ciegos financieros críticos cuya existencia quizá ni siquiera conozca.
 
-En la práctica, las adquisiciones de apartamentos value-add fallan menos por fórmulas de Excel incorrectas y más por un razonamiento incorrecto sobre los ciclos de mercado y la absorción de inquilinos.
+En la inversión inmobiliaria, **las operaciones rara vez fracasan por una fórmula de Excel rota; fracasan porque el inversor no consideró el calendario operativo y las reglas del prestamista.**
 
-Los fallos analíticos más comunes en el private equity inmobiliario incluyen:
-- Suponer que el 100% de las unidades puede alcanzar de inmediato las primas de renta de mercado, ignorando los contratos de arrendamiento vigentes.
-- Dimensionar la deuda de adquisición basándose únicamente en el Loan-to-Value (LTV) mientras se ignoran las restricciones de Debt Service Coverage Ratio (DSCR) del prestamista.
-- Tratar la ejecución de la renovación interior como instantánea, en lugar de un despliegue mensual por fases.
-- Valorar el precio de salida utilizando el NOI histórico T12, lo que penaliza severamente las operaciones recién estabilizadas del sponsor.
-- Suponer que las mejoras operativas (como reducir los ratios de gastos) ocurren sin fricciones de calendario.
+Estos son los hechos financieros objetivos y los puntos ciegos ocultos que este modelo resuelve automáticamente por usted:
 
-Construí este modelo inmobiliario comercial tras observar repetidamente situaciones en las que los comités de inversiones aprobaban sindicaciones multifamily basándose en supuestos internamente inconsistentes que quedaban cuidadosamente ocultos dentro de hojas de cálculo de underwriting convencionales e infladas.
+1. **La ilusión del «ajuste de renta el Día 1» (punto ciego de ingresos):** 
+   * *La realidad objetiva:* No puede subir las rentas al 100% de los inquilinos el día que compra un edificio de apartamentos. Los arrendamientos existentes fijan legalmente las rentas actuales hasta su vencimiento, y las unidades deben permanecer vacantes durante las renovaciones.
+   * *Cómo lo protege el modelo:* En lugar de asumir un flujo de caja instantáneo, la hoja de cálculo escala automáticamente sus aumentos de renta según el ritmo real de renovación mensual de unidades y los vencimientos de arrendamientos, mostrándole la reserva de caja exacta necesaria para sobrevivir la transición.
+2. **La trampa de la deuda «solo LTV» (punto ciego de financiamiento):** 
+   * *La realidad objetiva:* Los principiantes suelen asumir que un banco siempre prestará el 75% al 80% de Loan-to-Value (LTV). En entornos de tasas de interés altas, los prestamistas comerciales limitan el tamaño de su préstamo según el **DSCR (Debt Service Coverage Ratio)**, lo que significa que el flujo de caja actual de la propiedad no puede respaldar legalmente un préstamo del 75%.
+   * *Cómo lo protege el modelo:* Cuando pega los ingresos actuales de la propiedad y la tasa de interés, el modelo calcula automáticamente LTV, DSCR y Debt Yield en paralelo, limitando al instante su préstamo al límite más estricto del banco, para que nunca calcule mal su aporte de capital requerido (equity check).
+3. **La brecha de valoración entre T12 histórico y NOI prospectivo (punto ciego de salida):** 
+   * *La realidad objetiva:* Los inmuebles multifamily comerciales (5+ unidades) se valoran según los ingresos que producen divididos por el Cap Rate de mercado, no por ventas comparables residenciales. Sin embargo, valorar su salida según los ingresos históricos T12 (últimos 12 meses) subvalora un activo recién renovado, mientras que ignorar la expansión del Cap Rate destruye su margen de ganancia.
+   * *Cómo lo protege el modelo:* La plantilla separa los datos históricos T12 del NOI estabilizado prospectivo de 12 meses y construye automáticamente una tabla de sensibilidad que muestra cómo un cambio de 0.25% a 1.00% en los Cap Rates de salida impacta su ganancia neta.
 
-Considere una comparación simplificada de adquisición multifamily:
+### Comparación Lado a Lado: Folleto Estándar del Bróker vs. Este Modelo de Underwriting Automatizado
 
-| Supuesto de Underwriting | Pro Forma Estándar del Bróker | Modelo Excel Institucional Value-Add |
+Vea cómo aplicar lógica institucional preconstruida al mismo edificio de apartamentos de $18M cambia su realidad financiera antes de poner en riesgo su depósito de garantía:
+
+| Métrica Clave de Underwriting e Insumo Operativo | Pro Forma Estándar del OM del Bróker (Inflado) | Este Modelo Excel Value-Add Automatizado (Realista) |
 | :--- | ---: | ---: |
-| **Precio de Adquisición del Activo** | $18,000,000 | $18,000,000 |
-| **Proyección de IRR Apalancado Sponsor/LP** | 19.2% | 12.8% |
-| **Logro de la Prima de Renta** | Incremento inmediato del 100% | Vinculado al calendario real de vencimiento de arrendamientos |
-| **Dimensionamiento del Préstamo Senior** | Solo 75% LTV | Restringido por LTV, DSCR y Debt Yield |
-| **Rotación de Unidades CapEx** | Actualización instantánea | Despliegue de renovación por fases en 24 meses |
-| **Cap Rate de Salida / Reversion** | Basado en el NOI histórico T12 | Basado en el NOI estabilizado prospectivo de 12 meses |
+| **Precio de Adquisición de la Propiedad** | $18,000,000 | $18,000,000 |
+| **IRR Apalancado Proyectado Sponsor / LP** | 19.2% *(Inflado)* | **12.8% *(Sometido a Prueba de Estrés)*** |
+| **Primas del Alquiler Potencial Bruto (GPR)** | Aumento inmediato del 100% a renta de mercado | **Despliegue por Fases Vinculado a Vencimientos de Arrendamientos** |
+| **Occupación Económica y Pérdida por Vacancia** | Solo 5% de vacancia física plana | **Sigue el Tiempo de Inactividad por Renovación y el Loss-to-Lease** |
+| **Dimensionamiento del Préstamo Comercial Senior** | Supuesto sin restricciones de 75% LTV | **Limitado Automáticamente por LTV, DSCR Mín. (1.25x) y Debt Yield** |
+| **Rotación de Unidades CapEx Value-Add** | Actualización instantánea el Día 1 | **Calendario de Desembolsos de Construcción por Fases en 24 Meses** |
+| **Valoración de Salida (Cap Rate de Reversion)** | Estados financieros T12 sin ajustar | **NOI Estabilizado Prospectivo de 12 Meses + Expansión del Cap Rate** |
 
-El activo inmobiliario físico no cambió. Solo cambió la calidad del marco de análisis financiero.
-
-Este libro de trabajo funciona como un sistema de razonamiento productizado para adquisiciones inmobiliarias. Su propósito principal no es solo calcular retornos Cash-on-Cash y múltiplos de equity, sino exponer los supuestos operativos ocultos que determinan si esos retornos son realmente alcanzables.
-
----
-
-## Software y Plantillas de Underwriting para Profesionales Inmobiliarios
-
-Este modelo financiero está específicamente diseñado para sponsors de operaciones y analistas que necesitan cálculos fiables y listos para presentar.
-
-**¿Quién utiliza exactamente esta plantilla inmobiliaria?**
-- **Analistas de Real Estate Private Equity (REPE)** que necesitan un *modelo Excel de adquisición multifamily* transparente para someter a pruebas de estrés los retornos de equity GP/LP.
-- **Sindicadores multifamily** que buscan un *software de análisis de operaciones* fiable para generar confianza entre sus Limited Partners (LPs).
-- **Sponsors independientes y General Partners (GPs)** que buscan una *plantilla inmobiliaria value-add* ligera para un screening inicial rápido del mercado.
-- **Gerentes de Adquisiciones** que intentan reemplazar *hojas de cálculo pro forma inmobiliarias comerciales* heredadas y defectuosas.
-- **Modeladores financieros** que evalúan *renovaciones de apartamentos clase B y C* y requieren un seguimiento preciso del flujo de caja mensual.
-
-*(Nota: Esta es una herramienta de análisis de inversiones. No está diseñada para reemplazar el software de gestión de propiedades (como Yardi o AppFolio), los sistemas contables empresariales ni las plataformas de gestión de construcción.)*
-
-No se requiere experiencia avanzada en modelado financiero ni en Excel VBA.
+El edificio de apartamentos físico no cambió—solo cambió la lógica de negocio preprogramada. Al incorporar estas reglas directamente en la hoja de cálculo, **obtiene protección contra el riesgo de nivel institucional sin necesidad de un título en finanzas.**
 
 ---
 
-## 🚀 Tutorial Rápido de Underwriting: Del Screening a la Exportación a Excel
+## 👥 Para Quién Es: Plantillas y Software de Underwriting Inmobiliario por Rol
 
-Deje de perder tiempo construyendo tablas de amortización desde cero. Siga este flujo de trabajo específico para evaluar su próximo paquete de oferta multifamily (OM) en minutos:
+Ya sea que compre su primer edificio de 10 unidades o gestione un pipeline de operaciones de private equity, esta herramienta se adapta a su flujo de trabajo. Diseñamos esta **hoja de cálculo de bienes raíces comerciales** para satisfacer las necesidades exactas de roles específicos de la industria:
 
-### Paso 1: Introducir Supuestos del Activo y del Financiamiento (El Screener)
-Abra la [Calculadora Web Gratuita](https://hyvoid.github.io/Multifamily-Value-Add-Acquisition-Model/). Introduzca el precio solicitado por el bróker, el ingreso neto operativo T12 actual y sus condiciones de financiamiento objetivo (tasa de interés, periodo de amortización). La herramienta marca instantáneamente el monto máximo de su préstamo.
+- **Inversores Multifamily Primerizos y Principiantes** que buscan una *calculadora de inversión en apartamentos fácil de usar* que elimine las matemáticas complejas y prevenga costosos errores de underwriting de novato.
+- **Inversores Residenciales y House Hackers que Escalan a Comercial (5+ Unidades)** que necesitan una *plantilla Excel BRRRR multifamily* para pasar de comparables de casas unifamiliares a valoraciones comerciales impulsadas por el NOI.
+- **Sindicadores Inmobiliarios Aspirantes y Activos** que buscan *software de análisis de operaciones listo para inversores* para generar proyecciones transparentes de retornos GP/LP y generar credibilidad inmediata ante Limited Partners pasivos.
+- **Sponsors de Operaciones Independientes y General Partners (GPs)** que buscan una *plantilla rápida de screening de bienes raíces value-add* para filtrar más de 50 Offering Memorandums (OMs) de brókers por semana hasta el 1% superior de operaciones rentables.
+- **Brókers y Asesores de Bienes Raíces Comerciales (CRE)** que necesitan una *plantilla pro forma de apartamentos limpia* para someter a prueba de estrés los precios de los vendedores, justificar Cap Rates y presentar un potencial de renovación creíble a los compradores.
+- **Analistas Junior de Real Estate Private Equity (REPE) y Gerentes de Adquisiciones** que desean reemplazar hojas de cálculo heredadas, infladas y rotas por un *modelo Excel de adquisición multifamily estandarizado y listo para auditoría*.
 
-### Paso 2: Modelar el Calendario de Renovación Value-Add (Las Operaciones)
-Introduzca su presupuesto CapEx por unidad y las primas de renta objetivo tras la renovación. Establezca el ritmo mensual de renovación (p. ej., 4 unidades por mes). Observe cómo el modelo calcula automáticamente la sangría del "Loss to Lease" y el déficit operativo durante la construcción.
-
-### Paso 3: Analizar el Capital Stack y los Retornos (El Resultado)
-Revise las métricas de rendimiento ajustadas al riesgo. El dashboard calculará simultáneamente su IRR apalancado (Tasa Interna de Retorno), MoIC (Múltiplo sobre el Capital Invertido), retorno Cash-on-Cash y Yield-on-Cost tras la estabilización.
-
-### Paso 4: Descargar para el Comité y la Sindicación (Llamada a la Acción)
-Una herramienta web es ideal para una decisión go/no-go de 5 minutos. Pero para cerrar una operación, necesita compartir sus cálculos, ajustar estructuras de waterfall y guardar escenarios.
-
-**¿Listo para hacer underwriting a su pipeline de operaciones en vivo?** Olvídese de las cuotas mensuales de SaaS y sea dueño de sus datos. Descargue la hoja de cálculo desbloqueada y con fórmulas transparentes para usarla en adquisiciones futuras ilimitadas.
-
-👉 [**Descargar el Modelo Excel de Underwriting Multifamily Desbloqueado**](https://www.theseusworkshop.com/l/hmkjuu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=multifamily-value-add)
+*(Nota: Esta es una herramienta de análisis financiero y apoyo a la decisión pre-adquisición. No requiere macros/VBA y no está destinada a reemplazar software de gestión de propiedades posterior al closing como Yardi, AppFolio o RealPage.)*
 
 ---
 
-## Acerca de
+## 🎯 Escenarios de Operaciones Reales: Cuándo Usar Esta Hoja de Cálculo Pro Forma de Apartamentos
 
-Construyo herramientas analíticas ligeras y modelos financieros para situaciones donde hay demasiadas variables en movimiento para gestionarlas de forma fiable solo con la intuición.
+¿No está seguro de si esta plantilla se ajusta a su operación actual? Este modelo está específicamente diseñado para los **escenarios de inversión multifamily** más frecuentes:
 
-La pregunta que subyace a cada plantilla inmobiliaria que creo es directa:
+### 1. Screening de Operaciones del Offering Memorandum (OM) del Bróker en 5 Minutos
+Cuando un bróker le envía un paquete PDF de 40 páginas que promete una «oportunidad value-add con IRR superior al 20%», pegue los ingresos T12 básicos, el número de unidades y el precio solicitado en esta herramienta. En 60 segundos, verifique si la operación realmente genera flujo de caja a las tasas de interés actuales antes de perder horas en un due diligence profundo.
 
-> **¿Qué información necesita existir en un solo lugar para tomar con confianza la próxima decisión de inversión?**
+### 2. Renovaciones Value-Add de Apartamentos de Clase B y Clase C
+¿Evalúa un complejo de apartamentos garden-style más antiguo (años 1970–1990) con rentas por debajo del mercado? Ingrese su presupuesto de mejora de cocina/baño por puerta (p. ej., $12,000/unidad) y el aumento de renta objetivo ($250/mes) para ver exactamente cuánto tarda el flujo de caja renovado en recuperar su presupuesto de construcción.
 
-Este modelo de adquisición multifamily value-add representa exactamente esa filosofía: transformar las complejas prácticas institucionales de underwriting inmobiliario comercial (CRE) en un marco de apoyo a la decisión reutilizable y listo para el escritorio, que sigue siendo transparente, auditable y operativamente práctico.
+### 3. Dimensionamiento de Deuda del Prestamista y Pruebas de Estrés de Tasas de Interés
+¿Preocupado por la fluctuación de las tasas hipotecarias comerciales? Ajuste la tasa de interés, el periodo de amortización y el umbral mínimo de DSCR con un clic para ver su monto máximo exacto de préstamo, el servicio de deuda anual y la tasa de ocupación del punto de equilibrio.
+
+### 4. Cálculo del Precio Máximo de Oferta (Precio de Ejercicio) para Vendedores
+Deje de adivinar cuánto ofrecer. Trabaje hacia atrás desde sus retornos objetivo para inversores (p. ej., 8% de retorno Cash-on-Cash o 15% de IRR Apalancado) ajustando la celda del precio de adquisición hasta que el tablero automatizado alcance sus criterios exactos de rentabilidad.
+
+---
+
+## 🚀 Tutorial de Inicio Rápido: Conviértase en un Analista de Operaciones Profesional en 1 Minuto (Cero Escritura de Fórmulas)
+
+Las matemáticas de los bienes raíces comerciales son complejas, **pero usar esta herramienta no requiere ninguna habilidad en Excel.** 
+
+Cada regla de cálculo de la industria, restricción de deuda y vinculación de flujo de caja ya está preconstruida y bloqueada detrás de escena. **Ni siquiera necesita hacer doble clic o arrastrar el mouse para copiar fórmulas entre columnas.** Simplemente copie y pegue los datos de su propiedad en las celdas de entrada, y todo el libro de trabajo se actualiza automáticamente.
+
+Siga este flujo de trabajo de 4 pasos para evaluar cualquier operación de apartamentos en menos de 60 segundos:
+
+### Paso 1: Pruebe la Lógica con Screening de Operaciones en 1 Clic (Calculadora Gratuita en el Navegador)
+Abra la [calculadora web gratuita en línea de underwriting multifamily (acceso instantáneo desde el navegador)](https://hyvoid.github.io/Multifamily-Value-Add-Acquisition-Model/). Ingrese el precio solicitado de la propiedad, el Ingreso Neto Operativo (NOI) T12 actual y las condiciones de préstamo objetivo (Tasa de Interés, Amortización, límites LTV/DSCR). La calculadora muestra al instante el monto máximo de préstamo y el servicio de deuda base.
+
+### Paso 2: Ingrese sus Supuestos de Renovación Value-Add y Potencial de Renta
+Ingrese su presupuesto de renovación CapEx por unidad, la prima de renta mensual objetivo tras la renovación y el ritmo mensual de rotación de unidades (p. ej., renovar 4 unidades por mes). El modelo calcula automáticamente el sangrado de caja de la construcción, la recuperación del Loss-to-Lease y el crecimiento del NOI mes a mes.
+
+### Paso 3: Revise Métricas de Decisión Instantáneas (IRR, Cash-on-Cash y Múltiplo de Equity)
+Consulte el tablero de resumen automatizado. Sin matemáticas manuales, verá de inmediato su **IRR Apalancado, IRR Sin Apalancamiento, Múltiplo de Equity (MoIC), Retorno Cash-on-Cash Promedio y Yield-on-Cost Estabilizado**, destacando los factores de decisión exactos que necesita para decir «sí» o «retirarse».
+
+### Paso 4: Descargue la Plantilla Excel Automatizada para Análisis Ilimitado de Copiar y Pegar (CTA)
+La calculadora web gratuita está diseñada para una prueba puntual rápida. **Para analizar múltiples propiedades, guardar su pipeline de operaciones y presentar a sus socios, necesita el motor Excel local.**
+
+¿Por qué perder horas en temporadas de operaciones intensas luchando con hojas de cálculo rotas o pagar $200/mes por un SaaS inmobiliario complejo? Con el modelo Excel descargable, todas las fórmulas institucionales complejas están preautomatizadas al 100%:
+- **Cero Arrastre de Fórmulas:** Nunca más escriba una fórmula `VLOOKUP`, `IRR` o `PMT`, y ni siquiera necesite hacer doble clic en la esquina de una celda para arrastrar fórmulas.
+- **Flujo de Trabajo de Copiar y Pegar en 1 Minuto:** Descargue el archivo a su escritorio, pegue sus propios datos de propiedad en las celdas de entrada claramente marcadas y obtenga un análisis financiero completo listo para presentar en 1 clic.
+- **Concéntrese en Decisiones de Alto Valor:** Deje que incluso un principiante total genere análisis de nivel institucional en 60 segundos, liberando su tiempo durante las temporadas pico de adquisiciones para concentrarse en negociaciones con brókers, captación de capital y cierre de operaciones.
+
+👉 [**Descargue el Modelo Excel Automatizado de Underwriting Multifamily (.XLSX) — Pegue Sus Datos y Obtenga Claridad Inmediata de la Operación en 1 Minuto**](https://www.theseusworkshop.com/l/hmkjuu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=multifamily-value-add)
+
+---
+
+## 🛠️ Acerca de Theseus Workshop y Más Plantillas de Negocio Automatizadas
+
+Construyo herramientas analíticas ligeras, plug-and-play, y modelos financieros Excel automatizados para decisiones de negocio de alto riesgo donde hay demasiadas variables en movimiento para gestionarlas solo con la intuición.
+
+Cada plantilla que diseño responde a una pregunta central:
+
+> **¿Qué números críticos deben existir en un solo lugar, sin configuración manual, para que pueda tomar con confianza la próxima decisión de negocio o inversión en menos de un minuto?**
+
+Este **Modelo de Adquisición Multifamily Value-Add** encarna exactamente esa filosofía: destilar el underwriting inmobiliario institucional complejo en una hoja de cálculo de escritorio amigable para principiantes, de copiar y pegar, 100% transparente, auditable e inmediatamente accionable.
+
+### 🔗 Explore Nuestra Biblioteca Completa de Modelos de Negocio y Financieros Plug-and-Play
+¿Busca más herramientas de apoyo a la decisión automatizadas, calculadoras financieras y plantillas Excel listas para usar en bienes raíces, finanzas corporativas y operaciones de negocio? 
+
+👉 **Visite la Tienda Oficial:** [**Explore Todas las Plantillas Excel Automatizadas y Herramientas de Análisis de Negocio en TheseusWorkshop.com**](https://www.theseusworkshop.com?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20about%20funnel&utm_content=multifamily-value-add)
 
 ---
 
@@ -128,7 +162,7 @@ Este modelo de adquisición multifamily value-add representa exactamente esa fil
 
 ### Arquitectura del Libro de Trabajo
 
-El libro de trabajo sigue una arquitectura de modelado estricta de tres capas que separa los supuestos, los cálculos y los resultados de decisión.
+El libro de trabajo sigue una arquitectura de modelado estricta de tres capas que separa supuestos, cálculos y resultados de decisión. 
 
 ```text
 INPUT LAYER
@@ -152,7 +186,7 @@ OUTPUT LAYER
 └── Sheet 9   Dashboard
 ```
 
-| Hoja           | Función                                        |
+| Hoja           | Función                                      |
 | -------------- | --------------------------------------------- |
 | Control Panel  | Supuestos de adquisición y parámetros de mercado |
 | Rent Roll      | Línea base de arrendamientos y rentas por unidad |
@@ -166,27 +200,27 @@ OUTPUT LAYER
 
 ---
 
-### Tres Trampas que Atrapan Incluso a Inversores Multifamily con Experiencia
+### Tres Trampas Que Atrapan Incluso a Inversores Multifamily Experimentados
 
 #### Trampa 1: La Renta de Mercado No Es la Renta Alcanzable
 
 Se aprobó una adquisición value-add porque los estudios de mercado sugerían un potencial de renta del 28%.
 
-Sin embargo, la estructura de arrendamientos existente retrasó la materialización de ese potencial casi dos años.
+Sin embargo, la estructura de arrendamientos existente retrasó casi dos años la materialización de ese potencial.
 
 | Supuesto                            | Modelo Original | Modelo Corregido |
 | ----------------------------------- | -------------: | ---------------: |
 | Unidades                            |            120 |              120 |
 | Marcado a mercado inmediato         |            Sí  |               No |
 | Promedio de arrendamiento restante  |      Ignorado  |        14 meses  |
-| IRR apalancado                      |          20.8% |            13.9% |
+| IRR Apalancado                      |          20.8% |            13.9% |
 
 El error analítico ocurre porque la renta de mercado y la renta realizable no son variables equivalentes.
 
 El enfoque correcto es modelar:
 
 * los calendarios de vencimiento de los arrendamientos,
-* el calendario de liberación del loss-to-lease,
+* el momento de liberación del loss-to-lease,
 * el tiempo de inactividad por renovación,
 * la estabilización posterior a la renovación.
 
@@ -209,7 +243,7 @@ Lease_End_Month
 
 #### Trampa 2: El LTV No Determina la Capacidad de Endeudamiento
 
-Un sponsor asumió que habría financiamiento disponible al 75% de LTV.
+Un sponsor asumió financiamiento disponible al 75% de LTV.
 
 El prestamista finalmente aprobó el financiamiento basándose en restricciones de Debt Yield.
 
@@ -228,7 +262,7 @@ $11.8M
 
 El fallo analítico ocurre porque los prestamistas evalúan múltiples restricciones de riesgo simultáneamente.
 
-El enfoque correcto es aplicar el monto de préstamo mínimo soportado entre todas las métricas de underwriting.
+El enfoque correcto es aplicar el monto de préstamo mínimo soportado entre todas las métricas de underwriting. 
 
 <details>
 <summary>Lógica de la fórmula</summary>
@@ -249,20 +283,20 @@ Debt_Yield_Sized_Loan
 
 #### Trampa 3: Los Valores de Salida Dependen del Ingreso Futuro
 
-Un modelo de underwriting calculó las ganancias de la venta usando el NOI histórico del Año 5.
+Un modelo de underwriting calculó los ingresos de la salida usando el NOI histórico del Año 5.
 
 Los compradores institucionales valoraron el activo usando el ingreso estabilizado prospectivo.
 
-| Método          | Valor de Salida |
-| --------------- | --------------: |
-| NOI histórico   |         $33.1M  |
-| NOI prospectivo |         $28.4M  |
+| Método       | Valor de Salida |
+| ------------ | ---------: |
+| NOI histórico |     $33.1M |
+| NOI prospectivo |     $28.4M |
 
-Esta diferencia redujo los retornos de equity proyectados en más de 400 puntos base.
+Esta diferencia redujo los retornos de capital proyectados en más de 400 puntos base.
 
 El fallo analítico ocurre porque la valoración de activos refleja el ingreso futuro esperado en lugar del ingreso histórico.
 
-La metodología corregida capitaliza las proyecciones prospectivas del NOI de doce meses.
+La metodología corregida capitaliza las proyecciones prospectivas del NOI de doce meses. 
 
 <details>
 <summary>Lógica de la fórmula</summary>
@@ -284,32 +318,32 @@ Considere una adquisición value-add de 96 unidades.
 
 #### Adquisición
 
-| Dato                      |       Valor |
-| ------------------------- | ----------: |
-| Precio de Compra          | $18,000,000 |
-| Costos de Cierre          |        2.0% |
-| Presupuesto de Renovación | $1,920,000  |
-| Periodo de Tenencia       |    5 años   |
-| Cap Rate de Salida        |      5.75%  |
+| Dato             |       Valor |
+| ----------------- | ----------: |
+| Precio de Compra    | $18,000,000 |
+| Costos de Cierre     |        2.0% |
+| Presupuesto de Renovación |  $1,920,000 |
+| Periodo de Tenencia |     5 años |
+| Cap Rate de Salida     |       5.75% |
 
 #### Operaciones
 
-| Dato                        |  Valor |
-| --------------------------- | -----: |
-| Renta Promedio Actual       | $1,250 |
-| Renta de Mercado            | $1,520 |
-| Prima de Renovación         |   $225 |
-| Vacancia                    |  5.0%  |
-| Mora (Bad Debt)             |  1.5%  |
+| Dato                |  Valor |
+| -------------------- | -----: |
+| Renta Promedio Actual | $1,250 |
+| Renta de Mercado          | $1,520 |
+| Prima de Renovación   |   $225 |
+| Vacancia              |   5.0% |
+| Mora (Bad Debt)             |   1.5% |
 
 #### Financiamiento
 
 | Restricción | Resultado |
-| ----------- | --------: |
-| LTV         |   $13.5M  |
-| LTC         |   $14.1M  |
-| DSCR        |   $12.3M  |
-| Debt Yield  |   $11.9M  |
+| ---------- | -----: |
+| LTV        | $13.5M |
+| LTC        | $14.1M |
+| DSCR       | $12.3M |
+| Debt Yield | $11.9M |
 
 Monto final de la deuda:
 
@@ -319,24 +353,24 @@ $11.9M
 
 #### Resultados de la Inversión
 
-| Métrica                | Resultado |
-| ---------------------- | --------: |
-| NOI Año 1              |    $1.18M |
-| NOI Estabilizado       |    $2.04M |
-| Valor de Salida        |    $35.5M |
-| IRR Apalancado         |    15.6%  |
-| Múltiplo de Equity     |    2.09x  |
-| Cash-on-Cash Promedio  |     9.4%  |
-| Yield-on-Cost          |     9.3%  |
+| Métrica               | Resultado |
+| -------------------- | -----: |
+| NOI Año 1           | $1.18M |
+| NOI Estabilizado       | $2.04M |
+| Valor de Salida           | $35.5M |
+| IRR Apalancado          |  15.6% |
+| Múltiplo de Equity      |  2.09x |
+| Cash-on-Cash Promedio |   9.4% |
+| Yield-on-Cost        |   9.3% |
 
 #### Interpretación de la Decisión
 
 La adquisición sigue siendo atractiva solo si:
 
 * la duración de la renovación se mantiene por debajo de 30 meses,
-* los cap rates de salida se mantienen por debajo del 6.00%,
+* los Cap Rates de salida se mantienen por debajo del 6.00%,
 * las primas de renta superan los $175 por unidad/mes,
-* los requisitos de debt yield del prestamista se mantienen por debajo del 9.0%.
+* los requisitos de Debt Yield del prestamista se mantienen por debajo del 9.0%.
 
 ---
 
@@ -450,18 +484,18 @@ Initial_Equity
 
 ### Reglas de Validación
 
-| Campo                  | Regla              | Comportamiento ante Error |
-| ---------------------- | ------------------ | ------------------------ |
-| Precio de Compra       | > 0                | Parada estricta          |
-| Periodo de Tenencia    | 1–10 años          | Error de validación      |
-| Cap Rate de Salida     | ≥ Cap de Entrada   | Advertencia              |
-| LTV Máximo             | ≤ 75%              | Advertencia              |
-| DSCR Mínimo            | ≥ 1.20x            | Fallo de restricción     |
-| Debt Yield             | ≥ 8.00%            | Fallo de restricción     |
-| Requerimiento de Equity| > 0                | Parada estricta          |
-| DSCR Mensual           | ≥ 1.05x            | Advertencia de covenant  |
-| Unidades en Renovación | ≤ Total de Unidades| Error de validación      |
-| Conciliación del NPV   | Coincidencia exacta| Fallo de auditoría       |
+| Campo              | Regla          | Comportamiento ante Error     |
+| ------------------ | ------------- | ------------------ |
+| Precio de Compra     | > 0           | Parada estricta          |
+| Periodo de Tenencia        | 1–10 años    | Error de validación   |
+| Cap Rate de Salida      | ≥ Cap de Entrada   | Advertencia            |
+| LTV Máximo        | ≤ 75%         | Advertencia            |
+| DSCR Mínimo       | ≥ 1.20x       | Fallo de restricción |
+| Debt Yield         | ≥ 8.00%       | Fallo de restricción |
+| Requerimiento de Equity | > 0           | Parada estricta          |
+| DSCR Mensual       | ≥ 1.05x       | Advertencia de covenant   |
+| Unidades en Renovación   | ≤ Total de Unidades | Error de validación   |
+| Conciliación del NPV | Coincidencia exacta   | Fallo de auditoría      |
 
 </details>
 
@@ -469,37 +503,61 @@ Initial_Equity
 
 ## La Lógica de Negocio y la Metodología
 
-En esencia, este modelo de underwriting inmobiliario comercial desplaza el foco analítico de los *supuestos estáticos* a la *ejecución operativa dinámica*. Resuelve problemas complejos de adquisición multifamily aplicando metodologías de grado institucional a los cálculos cotidianos de sindicación:
+En esencia, este modelo de underwriting de bienes raíces comerciales desplaza el foco analítico de los *supuestos estáticos* a la *ejecución operativa dinámica*. Resuelve problemas complejos de adquisición multifamily aplicando metodologías de nivel institucional a los cálculos cotidianos de sindicación:
 
-### 1. Rent Roll Dinámico y Rotación de Arrendamientos (Resolviendo la Falacia del "Ingreso Instantáneo")
-* **El Problema de Negocio:** Los pro formas tradicionales a menudo asumen que las rentas saltan a las tasas de mercado desde el Día 1. Esto infla artificialmente los retornos Cash-on-Cash del Año 1 y oculta los déficits operativos tempranos.
+### 1. Rent Roll Dinámico y Rotación de Arrendamientos (Resolviendo la Falacia del «Ingreso Instantáneo»)
+* **El Problema de Negocio:** Los pro formas tradicionales suelen asumir que las rentas saltan a las tasas de mercado el Día 1. Esto infla artificialmente los retornos Cash-on-Cash del Año 1 y oculta los déficits operativos tempranos.
 * **La Metodología:** El modelo emplea un **calendario de rotación de arrendamientos por fases**. Mapea los vencimientos de los arrendamientos existentes y aplica las primas de renta objetivo (captura del loss-to-lease) solo a medida que las unidades rotan de forma natural. Esto produce un pronóstico realista del ingreso neto por rentas basado en el movimiento real de inquilinos en lugar de promedios teóricos.
 
-### 2. Absorción de CapEx y Tiempo de Inactividad de Unidades (Resolviendo el Riesgo de Brecha de Equity)
-* **El Problema de Negocio:** Los General Partners (GPs) y los sindicadores frecuentemente subestiman el capital de trabajo necesario para cubrir los costos fijos de la propiedad mientras las unidades permanecen vacantes durante la fase de construcción value-add.
-* **La Metodología:** Un **motor de ritmo de renovación mes a mes**. Al definir el máximo de unidades renovadas por mes y el tiempo promedio de inactividad por unidad, el modelo calcula el calendario exacto de desembolsos de gastos de capital (CapEx) y la pérdida de vacancia económica resultante. Esto dimensiona con precisión la captación total de equity necesaria para cubrir los valles de flujo de caja a mitad del proyecto.
+### 2. Absorción de CapEx y Tiempo de Inactividad de Unidades (Resolviendo el Riesgo de Brecha de Capital)
+* **El Problema de Negocio:** Los General Partners (GPs) y los sindicadores con frecuencia subestiman el capital de trabajo necesario para cubrir los costos fijos de la propiedad mientras las unidades permanecen vacantes durante la fase de construcción value-add.
+* **La Metodología:** Un **motor de ritmo de renovación mes a mes**. Al definir el máximo de unidades renovadas por mes y el tiempo promedio de inactividad por unidad, el modelo calcula el calendario exacto de desembolsos de gastos de capital (CapEx) y la pérdida de vacancia económica resultante. Esto dimensiona con precisión la captación total de capital necesaria para cubrir los valles de flujo de caja a mitad del proyecto.
 
 ### 3. Dimensionamiento de Deuda Multi-Restricción (Resolviendo el Rechazo del Prestamista)
 * **El Problema de Negocio:** Dimensionar un préstamo de adquisición estrictamente por Loan-to-Value (LTV) ignora cómo los prestamistas de agencias (Fannie Mae / Freddie Mac) o los fondos de deuda puente realmente evalúan el riesgo.
 * **La Metodología:** La plantilla utiliza un **motor de deuda de cuatro restricciones**. Calcula simultáneamente el monto máximo de préstamo admisible según LTV, DSCR mínimo (Debt Service Coverage Ratio), Debt Yield mínimo y umbrales de Loan-to-Cost (LTC). El modelo restringe automáticamente su apalancamiento a la métrica más conservadora, asegurando que su estructura de capital proyectada sea realmente financiable en el mundo real.
 
-### 4. Valoración de Salida Prospectiva (Resolviendo el Mal Precio de la Reversion)
+### 4. Valoración de Salida Prospectiva (Resolviendo la Fijación Errónea del Precio de Reversion)
 * **El Problema de Negocio:** Vender un complejo de apartamentos recién reposicionado basándose en su ingreso histórico T12 (últimos 12 meses) descuenta severamente el sweat equity y el valor creado por las renovaciones del sponsor.
-* **La Metodología:** **Capitalización del NOI Prospectivo**. El modelo calcula el valor terminal de salida (precio de disposición) aplicando el cap rate de salida a los *futuros* 12 meses de ingreso neto operativo (NOI) estabilizado. Esta metodología refleja con precisión el verdadero valor de mercado del activo reposicionado, asegurando que su IRR apalancado LP y sus múltiplos de equity reciban el crédito adecuado por el esfuerzo de estabilización.
+* **La Metodología:** **Capitalización del NOI Prospectivo**. El modelo calcula el valor terminal de salida (precio de disposición) aplicando el Cap Rate de salida a los *futuros* 12 meses de Ingreso Neto Operativo (NOI) estabilizado. Esta metodología refleja con precisión el verdadero valor de mercado del activo reposicionado, asegurando que su IRR Apalancado LP y sus múltiplos de equity reciban el crédito adecuado por el esfuerzo de estabilización.
 
 ---
 
 ## Otras Herramientas de Esta Serie
 
-* **Inventory Planning & Replenishment Engine** — posicionamiento de inventario, riesgo de quiebre de stock y optimización del capital de trabajo.
-* **Logistics Operations Control Tower** — visibilidad de envíos entre entidades y gestión de flujos de trabajo aduaneros.
-* **Business Budget Variance Analyzer** — presupuestación operativa y análisis de rentabilidad.
-* **Service Operations Performance Console** — productividad de la fuerza laboral y gestión de la rentabilidad de servicios.
+* **[rolling-cashflow-forecast](https://github.com/HyVoid/rolling-cashflow-forecast)** — ¿Por qué siempre falta efectivo? — Pronostique la liquidez futura bajo supuestos operativos y financieros cambiantes.
+* **[Multi-Currency-Trade-Financial-Analyzer](https://github.com/HyVoid/Multi-Currency-Trade-Financial-Analyzer)** — ¿Qué flujos comerciales son realmente rentables tras los efectos cambiarios? — Mida la rentabilidad del comercio multimoneda a través de operaciones transfronterizas.
+* **[RTL_Loan_Sizer_Pricer](https://github.com/HyVoid/RTL_Loan_Sizer_Pricer)** — ¿Qué estructura de financiamiento es sostenible bajo distintos escenarios de deudor y garantía? — Compare escenarios de préstamo usando supuestos de financiamiento ajustados al riesgo.
+* **[Personal-Business-Dual-Track-Budget-Manager](https://github.com/HyVoid/Personal-Business-Dual-Track-Budget-Manager)** — ¿Dónde se mezclan o asignan mal el efectivo personal y el empresarial? — Separe los flujos de efectivo personales y empresariales en líneas presupuestarias con seguimiento independiente.
+* **[Real-Estate-Valuation-all-in-one-calculator](https://github.com/HyVoid/Real-Estate-Valuation-all-in-one-calculator)** — ¿Cuánto vale una propiedad según los distintos métodos de valoración? — Calcule el valor de la propiedad con múltiples métodos de valoración, incluyendo modelado fiscal y de gastos de capital.
+* **[multi-entity-expense-allocation](https://github.com/HyVoid/multi-entity-expense-allocation)** — ¿Se asignan los costos compartidos de forma justa entre entidades, o algunos activos están sobrecargados mientras otros escapan de su verdadera exposición a costos? — Distribuya facturas de proveedores entre múltiples entidades legales y activos operativos con metodologías de asignación configurables.
+* **[investment-pool-nav-excel-template](https://github.com/HyVoid/investment-pool-nav-excel-template)** — ¿Qué le corresponde realmente a cada participante según su momento de entrada y el valor actual del pool? — Siga continuamente la propiedad de un pool de inversión mediante contabilidad de unidades basada en NAV.
+* **[shopify-cash-flow-forecast-excel-toolkit](https://github.com/HyVoid/shopify-cash-flow-forecast-excel-toolkit)** — ¿Qué compromisos operativos crearán un problema de caja en las próximas doce semanas? — Conecte las ventas de Shopify, las transacciones bancarias, el gasto publicitario y las compras de inventario en un marco unificado de decisiones de flujo de caja.
+* **[Revenue-Management-Decision-Engine](https://github.com/HyVoid/Revenue-Management-Decision-Engine)** — ¿Ha cambiado suficiente información significativa para justificar un ajuste de precios? — Gobierne las recomendaciones de precios mediante barandillas configurables que eviten volatilidad innecesaria de ingresos.
+* **[amazon-wbr-sqp-analytics-template](https://github.com/HyVoid/amazon-wbr-sqp-analytics-template)** — ¿Qué cambió realmente en el negocio este periodo y qué productos o palabras clave impulsaron el cambio? — Transforme las exportaciones de Amazon Seller Central SQP y Sellerboard en revisiones ejecutivas de negocio estandarizadas.
+* **[food-manufacturing-cost-calculator-excel](https://github.com/HyVoid/food-manufacturing-cost-calculator-excel)** — ¿Qué productos son realmente rentables tras asignar todos los costos de fabricación y cuáles destruyen el margen? — Asigne mano de obra de fábrica, servicios, overhead y costos de materiales a cada SKU para una verdadera economía de fabricación por unidad.
+* **[ecommerce-profit-calculator-excel](https://github.com/HyVoid/ecommerce-profit-calculator-excel)** — ¿Qué pedidos son realmente rentables tras todos los costos ocultos y dónde se fuga dinero entre canales y monedas? — Reconstruya la rentabilidad real a nivel de pedido conciliando pagos de ventas, costos de envío, comisiones de pago y comisiones de marketplace en operaciones de e-commerce multicanal.
+* **[construction-job-costing-excel-template](https://github.com/HyVoid/construction-job-costing-excel-template)** — ¿Qué proyectos de contratistas y clientes son realmente rentables tras todos los costos de obra? — Conecte la estimación de oportunidades, la ejecución de obras y el seguimiento de costos reales en un marco unificado de rentabilidad del contratista.
+* **[Flora-Pastry-Coffee-Shop-Operating-Control-System](https://github.com/HyVoid/Flora-Pastry-Coffee-Shop-Operating-Control-System)** — ¿La tienda es realmente rentable tras todos los costos de ingredientes, mano de obra y operación? — Conecte el costo de recetas, ventas, consumo de inventario y gastos operativos en un marco unificado de rentabilidad y flujo de caja.
+* **[freight-forwarder-job-costing-excel](https://github.com/HyVoid/freight-forwarder-job-costing-excel)** — ¿Qué reservas de flete son realmente rentables tras todos los costos, tarifas y conversión de divisas? — Mida la rentabilidad del flete a nivel de reserva conciliando ingresos, COGS, comisiones bancarias y costos de contenedores en transacciones multimoneda.
+* **[cross-entity-logistics-console](https://github.com/HyVoid/cross-entity-logistics-console)** — ¿Qué contenedores y clientes son realmente rentables a través de las operaciones de aduanas y flota? — Consolide el despacho aduanero y la ejecución de flota en una vista única de rentabilidad a nivel de contenedor.
+* **[family-loan-tracker-excel](https://github.com/HyVoid/family-loan-tracker-excel)** — ¿Qué se debe realmente hoy tras años de transferencias e intereses acumulados? — Concilie transferencias de fondos a largo plazo e intereses acumulados en un saldo pendiente actual.
+* **[3-statement-financial-model-excel](https://github.com/HyVoid/3-statement-financial-model-excel)** — ¿Cómo se verán nuestros estados financieros bajo distintos escenarios operativos y de financiamiento? — Pronostique estados financieros integrados vinculando ingresos, gastos, capital de trabajo y deuda en un modelo unificado.
+* **[assisted-living-cost-allocation-excel](https://github.com/HyVoid/assisted-living-cost-allocation-excel)** — ¿Cuánto del margen reportado de cada edificio lo genera realmente ese edificio frente a la forma en que se asignaron los costos corporativos? — Asigne gastos compartidos entre unidades operativas preservando las transacciones de origen y conciliando los resultados por unidad con los totales de la empresa.
+* **[real-estate-development-feasibility-excel](https://github.com/HyVoid/real-estate-development-feasibility-excel)** — ¿A qué precio máximo de adquisición de terreno este proyecto de desarrollo se convierte en una inversión bancable? — Evalúe oportunidades de desarrollo residencial seleccionando comparables de terreno, estimando costos de construcción y calculando umbrales de rentabilidad sobre costo.
+* **[uk-residential-costing-software](https://github.com/HyVoid/uk-residential-costing-software)** — ¿Este proyecto de construcción alcanzará realmente su margen objetivo una vez consideradas la logística del sitio, los factores de desperdicio y los cambios en tarifas de oficios? — Separe las cantidades físicas del edificio de las tarifas volátiles de oficios y los gastos preliminares del sitio para trasladar los márgenes comerciales a los presupuestos de licitación y cotizaciones de clientes.
+* **[b2b-pricing-landed-cost-excel-model](https://github.com/HyVoid/b2b-pricing-landed-cost-excel-model)** — ¿Qué precios al por mayor y segmentos de clientes preservan realmente el margen una vez que flete, aranceles, condiciones de pago y tipo de cambio están completamente costeados? — Calcule landed costs a nivel de SKU, costo de servicio y cascadas de precios de margen residual para simular la rentabilidad mayorista transfronteriza.
+* **[custom-label-pricing-calculator](https://github.com/HyVoid/custom-label-pricing-calculator)** — ¿Cuánto cobrar por un pedido de etiquetas personalizadas en cada nivel de cantidad para seguir siendo competitivos y rentables? — Calcule precios paramétricos de etiquetas modelando costos de sustrato por pulgada cuadrada, cargos de configuración y descuentos por niveles de cantidad frente a referencias de competidores.
+* **[landed-cost-calculator-retail-deduction-excel](https://github.com/HyVoid/landed-cost-calculator-retail-deduction-excel)** — ¿Cuál es el verdadero margen neto de cada SKU una vez considerados los landed costs reales y las deducciones de los minoristas? — Concilie los landed costs estimados en la PO contra flete, aranceles, FX y drayage reales, mientras audita las deducciones de remesa de minoristas para exponer el margen neto a nivel de SKU.
+* **[saas-finance-mrr-burn-rate-excel](https://github.com/HyVoid/saas-finance-mrr-burn-rate-excel)** — ¿Podemos asumir los compromisos de contratación, marketing y proveedores de esta semana sin quedarnos sin caja antes del cierre contable? — Siga el ritmo de quema semanal de caja, la varianza del waterfall MRR/ARR, las métricas de retención y los costos de nómina frente al presupuesto antes del cierre de fin de mes.
+* **[startup-financial-model-excel](https://github.com/HyVoid/startup-financial-model-excel)** — ¿Se quedará sin caja nuestro plan de crecimiento antes de que la monetización de las cohortes alcance? — Pronostique la quema de caja plurianual, runway, economía unitaria y dilución por levantamiento de fondos a partir de supuestos bottom-up de cohortes y personal.
+* **[shopify-pnl-reconciliation-excel](https://github.com/HyVoid/shopify-pnl-reconciliation-excel)** — ¿Cada tienda Shopify es realmente rentable una vez conciliados los costos reales a nivel de SKU, gastos compartidos y cargos bancarios? — Concilie las exportaciones de ventas multitienda de Shopify contra COGS a nivel de SKU, OPEX multimoneda asignado y estados bancarios para producir un P&L mensual confiable.
+* **[travel-agency-accounting-excel-template](https://github.com/HyVoid/travel-agency-accounting-excel-template)** — ¿Qué reservas de tours generan realmente beneficio neto y flujo de caja positivo tras costos de proveedores y cobros B2B? — Calcule costos de operación por reserva, márgenes brutos, liquidación AR/AP y flujo de caja operativo en múltiples monedas.
 
 ---
 
 ## Licencia
 
-Este proyecto está licenciado bajo la **Licencia Apache 2.0**.
+Este proyecto está licenciado bajo la **Apache License 2.0**.
 
-Puede usar, modificar, distribuir y adaptar este proyecto libremente bajo los términos de la Licencia Apache 2.0.
+Puede usar, modificar, distribuir y adaptar este proyecto libremente bajo los términos de la Licencia Apache 2.0. 
